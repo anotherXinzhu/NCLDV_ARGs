@@ -1,0 +1,12 @@
+# alignment 
+nohup mafft-linsi --thread 10 ileS_treeSeqs.faa > ileS_treeSeqs.mafft &
+
+# trim
+trimal -in  ileS_treeSeqs.mafft -out  ileS_treeSeqs.mafft.trimal -gt 0.1 
+
+# 转化为phy格式
+perl ../../Fasta2Phylip.pl ileS_treeSeqs.mafft.trimal  ileS_treeSeqs.mafft.trimal.phy
+
+# 建树
+nohup /data/software/iqtree-2.1.2-Linux/bin/iqtree2 -s ileS_treeSeqs.mafft.trimal.phy --alrt 1000 --bnni -T 30 &
+

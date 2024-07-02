@@ -1,0 +1,15 @@
+
+# sequences 
+cat refSeqs.faa dfr_viralSeqs.faa > treeSeqs.faa
+
+# alignment 
+nohup mafft-linsi --thread 10 treeSeqs.faa > treeSeqs.mafft &
+
+# trim
+trimal -in treeSeqs.mafft -out treeSeqs.mafft.trimal -gt 0.1 
+
+# transform to phy file
+perl ../Fasta2Phylip.pl treeSeqs.mafft.trimal treeSeqs.mafft.trimal.phy
+
+# construct the tree
+nohup /data/software/iqtree-2.1.2-Linux/bin/iqtree2 -s treeSeqs.mafft.trimal.phy --alrt 1000 --bnni -T 20 &

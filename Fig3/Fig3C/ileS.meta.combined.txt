@@ -1,0 +1,844 @@
+abb	kingdom	order	family	full	ARG	AR	phylum	lastLevel
+ncldv_1	ncldv	Imitervirales	n.a.	ChoanoV_1.fa|ENA_MK250085_MK250085.1_69	NA	NA	NA	NA
+ncldv_2	ncldv	Imitervirales	Mimiviridae	cPacV_1605.fa|CABVLZ010000001.1_46	NA	NA	NA	NA
+ncldv_3	ncldv	Imitervirales	n.a.	ERX552257.96.dc.fa|contig_14060_10	NA	NA	NA	NA
+ncldv_4	ncldv	Imitervirales	Mimiviridae	ERX552300.8.dc.fa|contig_2163_11	NA	NA	NA	NA
+ncldv_5	ncldv	Imitervirales	Mimiviridae	GCA_000889395.1_ViralProj59783|GU244497.1_512	NA	NA	NA	NA
+ncldv_6	ncldv	Imitervirales	Mimiviridae	GCA_000893915.1_ViralProj74349|JN258408.1_362	NA	NA	NA	NA
+ncldv_7	ncldv	Imitervirales	Mimiviridae	GCA_000904035.1_ViralProj186430|JX962719.1_324	NA	NA	NA	NA
+ncldv_8	ncldv	Pimascovirales	Pithoviridae	GCA_002892525.1_ASM289252v1|LT906555.1_354	NA	NA	NA	NA
+ncldv_9	ncldv	Imitervirales	Mimiviridae	GCA_002924545.1_ASM292454v1|KU877344.1_351	NA	NA	NA	NA
+ncldv_10	ncldv	Imitervirales	Mimiviridae	GCA_002966215.1_ASM296621v1|KY684086.1_38	NA	NA	NA	NA
+ncldv_11	ncldv	Imitervirales	Mimiviridae	GCA_002966235.1_ASM296623v1|KY684084.1_149	NA	NA	NA	NA
+ncldv_12	ncldv	Imitervirales	Mimiviridae	GCA_002966255.1_ASM296625v1|KY684105.1_243	NA	NA	NA	NA
+ncldv_13	ncldv	Imitervirales	Mimiviridae	GCA_002966275.1_ASM296627v1|KY684109.1_140	NA	NA	NA	NA
+ncldv_14	ncldv	Imitervirales	Mimiviridae	GCA_002966405.1_ASM296640v1|MF782455.1_782	NA	NA	NA	NA
+ncldv_15	ncldv	Imitervirales	Mimiviridae	GCA_002966435.1_ASM296643v1|KC008572.1_661	NA	NA	NA	NA
+ncldv_16	ncldv	Imitervirales	Mimiviridae	GCA_002966485.1_ASM296648v1|KY523104.1_100	NA	NA	NA	NA
+ncldv_17	ncldv	Imitervirales	Mimiviridae	GCA_002966485.1_ASM296648v1|KY523104.1_860	NA	NA	NA	NA
+ncldv_18	ncldv	Imitervirales	Mimiviridae	GCA_003814065.1_ASM381406v1|MK072092.1_4	NA	NA	NA	NA
+ncldv_19	ncldv	Imitervirales	Mimiviridae	GCA_003814085.1_ASM381408v1|MK072148.1_12	NA	NA	NA	NA
+ncldv_20	ncldv	Imitervirales	Mimiviridae	GCA_003814165.1_ASM381416v1|MK072390.1_29	NA	NA	NA	NA
+ncldv_21	ncldv	Imitervirales	Mimiviridae	GCA_003814265.1_ASM381426v1|MK071985.1_36	NA	NA	NA	NA
+ncldv_22	ncldv	Imitervirales	Mimiviridae	GCA_004151645.1_ASM415164v1|MH046811.1_411	NA	NA	NA	NA
+ncldv_23	ncldv	Imitervirales	Mimiviridae	GCA_004156295.1_ASM415629v1|MG807320.1_333	NA	NA	NA	NA
+ncldv_24	ncldv	Imitervirales	Mimiviridae	GVMAG-M-3300001348-16.fna|JGI20154J14316_10000262_6	NA	NA	NA	NA
+ncldv_25	ncldv	Imitervirales	n.a.	GVMAG-M-3300001351-8.fna|JGI20153J14318_10000150_45	NA	NA	NA	NA
+ncldv_26	ncldv	Imitervirales	n.a.	GVMAG-M-3300009163-40.fna|Ga0114970_10000093_32	NA	NA	NA	NA
+ncldv_27	ncldv	Imitervirales	Mimiviridae	GVMAG-M-3300009697-1.fna|Ga0116231_10012182_2	NA	NA	NA	NA
+ncldv_28	ncldv	Imitervirales	n.a.	GVMAG-M-3300012954-26.fna|Ga0163111_10000679_1	NA	NA	NA	NA
+ncldv_29	ncldv	Imitervirales	Mimiviridae	GVMAG-M-3300017788-2.fna|Ga0169931_10009381_8	NA	NA	NA	NA
+ncldv_30	ncldv	Imitervirales	n.a.	GVMAG-M-3300017967-22.fna|Ga0181590_10001532_2	NA	NA	NA	NA
+ncldv_31	ncldv	Imitervirales	n.a.	GVMAG-M-3300017971-33.fna|Ga0180438_10002355_19	NA	NA	NA	NA
+ncldv_32	ncldv	Pandoravirales	n.a.	GVMAG-M-3300018080-53.fna|Ga0180433_10004028_13	NA	NA	NA	NA
+ncldv_33	ncldv	Imitervirales	Mimiviridae	GVMAG-M-3300020165-43.fna|Ga0206125_10000303_40	NA	NA	NA	NA
+ncldv_34	ncldv	Imitervirales	Mimiviridae	GVMAG-M-3300020185-49.fna|Ga0206131_10001254_13	NA	NA	NA	NA
+ncldv_35	ncldv	Imitervirales	n.a.	GVMAG-M-3300021365-13.fna|Ga0206123_10003304_6	NA	NA	NA	NA
+ncldv_36	ncldv	Imitervirales	n.a.	GVMAG-M-3300023174-204.fna|Ga0214921_10002485_12	NA	NA	NA	NA
+ncldv_37	ncldv	Imitervirales	n.a.	GVMAG-M-3300023174-206.fna|Ga0214921_10001779_15	NA	NA	NA	NA
+ncldv_38	ncldv	Imitervirales	Mimiviridae	GVMAG-M-3300023179-103.fna|Ga0214923_10000092_94	NA	NA	NA	NA
+ncldv_39	ncldv	Imitervirales	n.a.	GVMAG-M-3300023179-150.fna|Ga0214923_10000113_77	NA	NA	NA	NA
+ncldv_40	ncldv	Imitervirales	n.a.	GVMAG-M-3300023179-150.fna|Ga0214923_10002369_16	NA	NA	NA	NA
+ncldv_41	ncldv	Imitervirales	Mimiviridae	GVMAG-M-3300023179-2.fna|Ga0214923_10000197_47	NA	NA	NA	NA
+ncldv_42	ncldv	Imitervirales	n.a.	GVMAG-M-3300023179-31.fna|Ga0214923_10008670_4	NA	NA	NA	NA
+ncldv_43	ncldv	Imitervirales	Mimiviridae	GVMAG-M-3300023179-4.fna|Ga0214923_10000057_15	NA	NA	NA	NA
+ncldv_44	ncldv	Imitervirales	Mimiviridae	GVMAG-M-3300023179-54.fna|Ga0214923_10000891_31	NA	NA	NA	NA
+ncldv_45	ncldv	Asfuvirales	n.a.	GVMAG-M-3300024062-1.fna|Ga0255039_10000002_3	NA	NA	NA	NA
+ncldv_46	ncldv	Imitervirales	n.a.	GVMAG-M-3300025860-20.fna|Ga0209119_1000022_55	NA	NA	NA	NA
+ncldv_47	ncldv	Imitervirales	Mimiviridae	GVMAG-S-1015567-333.fna|1015567_contig_16177_6	NA	NA	NA	NA
+ncldv_48	ncldv	Pimascovirales	n.a.	GVMAG-S-1041349-163.fna|1041349_contig_46_45	NA	NA	NA	NA
+ncldv_49	ncldv	Imitervirales	Mimiviridae	GVMAG-S-3300009084-161.fna|3300009084.a:Ga0105046_10000143_1	NA	NA	NA	NA
+ncldv_50	ncldv	Imitervirales	Mimiviridae	GVMAG-S-3300013131-119.fna|3300013131.a:Ga0172373_10000181_24	NA	NA	NA	NA
+ncldv_51	ncldv	Pimascovirales	Pithoviridae	GX_tailings_bin.15.fa:GX_tailings_Scaff1225514_10	NA	NA	NA	NA
+ncldv_52	ncldv	Pandoravirales	n.a.	HuN_tailings_bin.17.fa:HuN_tailings_Scaff0946968_12	NA	NA	NA	NA
+ncldv_53	ncldv	Imitervirales	Mimiviridae	Mimivirus_LCMiAC01.fna|MK500389.1_42	NA	NA	NA	NA
+ncldv_54	ncldv	Imitervirales	Mimiviridae	SRX327520.21.dc.fa|contig_205087_22	NA	NA	NA	NA
+ncldv_55	ncldv	Imitervirales	Mimiviridae	SRX696246.4.dc.fa|contig_367_146	NA	NA	NA	NA
+ncldv_56	ncldv	Imitervirales	Mimiviridae	SRX802077.79.dc.fa|contig_8904_19	NA	NA	NA	NA
+Archaea_ileS_1	Archaea	Thermoplasmatales	Picrophilaceae	Q6L206.1	ileS	NA	NA	Picrophilus oshimae
+Archaea_ileS_2	Archaea	Thermoplasmatales	Thermoplasmataceae	Q9HJT4.2	ileS	NA	NA	Thermoplasma acidophilum
+Archaea_ileS_3	Archaea	Thermoplasmatales	Thermoplasmataceae	Q97AG7.1	ileS	NA	NA	Thermoplasma volcanium
+Archaea_ileS_4	Archaea	Archaeoglobales	Archaeoglobaceae	O29622.1	ileS	NA	NA	Archaeoglobus fulgidus
+Archaea_ileS_5	Archaea	Methanobacteriales	Methanobacteriaceae	P26499.3	ileS	NA	NA	Methanothermobacter marburgensis
+Archaea_ileS_6	Archaea	Methanobacteriales	Methanobacteriaceae	O27428.3	ileS	NA	NA	Methanothermobacter thermautotrophicus
+Archaea_ileS_7	Archaea	Methanococcales	Methanocaldococcaceae	Q58357.1	ileS	NA	NA	Methanocaldococcus jannaschii
+Archaea_ileS_8	Archaea	Methanococcales	Methanococcaceae	A6UVK2.1	ileS	NA	NA	Methanococcus aeolicus
+Archaea_ileS_9	Archaea	Methanococcales	Methanococcaceae	Q6LX78.1	ileS	NA	NA	Methanococcus maripaludis
+Archaea_ileS_10	Archaea	Methanopyrales	Methanopyraceae	Q8TWY2.1	ileS	NA	NA	Methanopyrus kandleri
+Archaea_ileS_11	Archaea	Halobacteriales	Haloarculaceae	Q5UZ84.1	ileS	NA	NA	Haloarcula marismortui
+Archaea_ileS_12	Archaea	Halobacteriales	Haloarculaceae	Q3ITY7.1	ileS	NA	NA	Natronomonas pharaonis
+Archaea_ileS_13	Archaea	Halobacteriales	Halobacteriaceae	Q9HN97.1	ileS	NA	NA	Halobacterium salinarum NRC-34001
+Archaea_ileS_14	Archaea	Haloferacales	Haloferacaceae	Q18GW3.1	ileS	NA	NA	Haloquadratum walsbyi
+Archaea_ileS_15	Archaea	Methanomicrobiales	Methanocorpusculaceae	A2SPV6.1	ileS	NA	NA	Methanocorpusculum labreanum
+Archaea_ileS_16	Archaea	Methanomicrobiales	Methanomicrobiaceae	A3CSI6.1	ileS	NA	NA	Methanoculleus marisnigri
+Archaea_ileS_17	Archaea	Methanomicrobiales	Methanoregulaceae	A7IAM2.1	ileS	NA	NA	Methanoregula boonei
+Archaea_ileS_18	Archaea	Methanomicrobiales	Methanospirillaceae	Q2FPJ4.1	ileS	NA	NA	Methanospirillum hungatei
+Archaea_ileS_19	Archaea	Methanosarcinales	Methanosarcinaceae	Q12ZD1.1	ileS	NA	NA	Methanococcoides burtonii
+Archaea_ileS_20	Archaea	Methanosarcinales	Methanosarcinaceae	Q8TN62.1	ileS	NA	NA	Methanosarcina acetivorans
+Archaea_ileS_21	Archaea	Methanosarcinales	Methanosarcinaceae	Q465G4.1	ileS	NA	NA	Methanosarcina barkeri
+Archaea_ileS_22	Archaea	Methanosarcinales	Methanosarcinaceae	Q8PSV9.1	ileS	NA	NA	Methanosarcina mazei
+Archaea_ileS_23	Archaea	Methanotrichales	Methanotrichaceae	A0B7P3.1	ileS	NA	NA	Methanothrix thermoacetophila
+Archaea_ileS_24	Archaea	Thermococcales	Thermococcaceae	Q9V072.1	ileS	NA	NA	Pyrococcus abyssi
+Archaea_ileS_25	Archaea	Thermococcales	Thermococcaceae	P46214.2	ileS	NA	NA	Pyrococcus furiosus
+Archaea_ileS_26	Archaea	Thermococcales	Thermococcaceae	O58792.1	ileS	NA	NA	Pyrococcus horikoshii
+Archaea_ileS_27	Archaea	Thermococcales	Thermococcaceae	Q5JJ31.1	ileS	NA	NA	Thermococcus kodakarensis
+Archaea_ileS_28	Archaea	Desulfurococcales	Desulfurococcaceae	Q9YF67.1	ileS	NA	NA	Aeropyrum pernix
+Archaea_ileS_29	Archaea	Sulfolobales	Sulfolobaceae	Q9UXB1.1	ileS	NA	NA	Saccharolobus solfataricus
+Archaea_ileS_30	Archaea	Sulfolobales	Sulfolobaceae	P46215.2	ileS	NA	NA	Sulfolobus acidocaldarius
+Archaea_ileS_31	Archaea	Sulfolobales	Sulfolobaceae	C3MVH6.1	ileS	NA	NA	Sulfolobus islandicus
+Archaea_ileS_32	Archaea	Sulfolobales	Sulfolobaceae	C3N5S5.1	ileS	NA	NA	Sulfolobus islandicus
+Archaea_ileS_33	Archaea	Thermoproteales	Thermoproteaceae	Q8ZWU4.1	ileS	noEvidence	NA	Pyrobaculum aerophilum
+Bacteria_ileS_1	Bacteria	Bacillales	Staphylococcaceae	P41368	ileS	mupirocin	Bacillota	Staphylococcus aureus
+Bacteria_ileS_2	Bacteria	Mycobacteriales	Mycobacteriaceae	Q10765	ileS	mupirocin	Actinomycetota	Mycobacterium tuberculosis CDC1551
+Bacteria_ileS_3	Bacteria	Bacillales	Staphylococcaceae	P41972	ileS	sensitive	Bacillota	Staphylococcus aureus
+Bacteria_ileS_4	Bacteria	Pasteurellales	Pasteurellaceae	P43824	ileS	sensitive	Pseudomonadota	Haemophilus influenzae Rd KW20
+Bacteria_ileS_5	Bacteria	Thermotogales	Thermotogaceae	P46213	ileS	sensitive	Thermotogota	Thermotoga maritima MSB8
+Bacteria_ileS_6	Bacteria	Mycoplasmatales	Mycoplasmataceae	P47587	ileS	sensitive	Mycoplasmatota	Mycoplasmoides genitalium G37
+Bacteria_ileS_7	Bacteria	Campylobacterales	Helicobacteraceae	P56456	ileS	sensitive	Campylobacterota	Helicobacter pylori 26695
+Bacteria_ileS_8	Bacteria	Bacillales	Bacillaceae	Q45477	ileS	sensitive	Bacillota	Bacillus subtilis subsp. subtilis str. 168
+Bacteria_ileS_9	Bacteria	Campylobacterales	Arcobacteraceae	A8ES62.1	ileS	noEvidence	NA	Aliarcobacter butzleri
+Bacteria_ileS_10	Bacteria	Campylobacterales	Helicobacteraceae	Q17ZG3.1	ileS	noEvidence	NA	Helicobacter acinonychis
+Bacteria_ileS_11	Bacteria	Campylobacterales	Helicobacteraceae	Q7VGX8.1	ileS	noEvidence	NA	Helicobacter hepaticus
+Bacteria_ileS_12	Bacteria	Campylobacterales	Sulfurovaceae	A6QB84.1	ileS	noEvidence	NA	unclassified Sulfurovum
+Bacteria_ileS_13	Bacteria	Nautiliales	Nautiliaceae	B9L8Z9.1	ileS	noEvidence	NA	Nautilia profundicola
+Bacteria_ileS_14	Bacteria	Nautiliales	Nitratiruptoraceae	A6Q4I1.1	ileS	noEvidence	NA	unclassified Nitratiruptor
+Bacteria_ileS_15	Bacteria	Chlamydiales	Chlamydiaceae	Q9Z972.1	ileS	noEvidence	NA	Chlamydia
+Bacteria_ileS_16	Bacteria	Hyphomicrobiales	Nitrobacteraceae	Q89DF8.1	ileS	noEvidence	NA	Bradyrhizobium diazoefficiens
+Bacteria_ileS_17	Bacteria	Rhodospirillales	Acetobacteraceae	Q5FRI6.1	ileS	noEvidence	NA	Gluconobacter oxydans
+Bacteria_ileS_18	Bacteria	Rickettsiales	Anaplasmataceae	Q73HW7.1	ileS	noEvidence	NA	unclassified Wolbachia
+Bacteria_ileS_19	Bacteria	Rickettsiales	Rickettsiaceae	Q1RIY1.1	ileS	noEvidence	NA	Rickettsia bellii
+Bacteria_ileS_20	Bacteria	Burkholderiales	Burkholderiaceae	Q39DM8.1	ileS	noEvidence	NA	Burkholderia cepacia complex
+Bacteria_ileS_21	Bacteria	Burkholderiales	Burkholderiaceae	B1YVA4.1	ileS	noEvidence	NA	Burkholderia ambifaria
+Bacteria_ileS_22	Bacteria	Burkholderiales	Burkholderiaceae	B1JXC3.1	ileS	noEvidence	NA	Burkholderia orbicola
+Bacteria_ileS_23	Bacteria	Burkholderiales	Burkholderiaceae	B3R6E8.1	ileS	noEvidence	NA	Cupriavidus taiwanensis
+Bacteria_ileS_24	Bacteria	Neisseriales	Chromobacteriaceae	Q7NS57.1	ileS	noEvidence	NA	Chromobacterium violaceum
+Bacteria_ileS_25	Bacteria	Neisseriales	Neisseriaceae	A1KS62.1	ileS	noEvidence	NA	Neisseria meningitidis serogroup C
+Bacteria_ileS_26	Bacteria	Nitrosomonadales	Thiobacillaceae	Q3SHS3.1	ileS	noEvidence	NA	Thiobacillus denitrificans
+Bacteria_ileS_27	Bacteria	Alteromonadales	Shewanellaceae	A1S425.1	ileS	noEvidence	NA	Shewanella amazonensis
+Bacteria_ileS_28	Bacteria	Alteromonadales	Shewanellaceae	A3QBX2.1	ileS	noEvidence	NA	Shewanella loihica
+Bacteria_ileS_29	Bacteria	Alteromonadales	Shewanellaceae	B8CSC1.1	ileS	noEvidence	NA	Shewanella piezotolerans
+Bacteria_ileS_30	Bacteria	Cellvibrionales	Cellvibrionaceae	Q21HK3.1	ileS	noEvidence	NA	Saccharophagus degradans
+Bacteria_ileS_31	Bacteria	Chromatiales	Ectothiorhodospiraceae	Q0AAD1.1	ileS	noEvidence	NA	Alkalilimnicola ehrlichii
+Bacteria_ileS_32	Bacteria	Chromatiales	Ectothiorhodospiraceae	A1WY38.1	ileS	noEvidence	NA	Halorhodospira halophila
+Bacteria_ileS_33	Bacteria	Enterobacterales	Bruguierivoracaceae	Q2NVY6.1	ileS	noEvidence	NA	Sodalis glossinidius
+Bacteria_ileS_34	Bacteria	Enterobacterales	Enterobacteriaceae	P00956.5	ileS	noEvidence	NA	Escherichia coli
+Bacteria_ileS_35	Bacteria	Enterobacterales	Enterobacteriaceae	A1A774.1	ileS	noEvidence	NA	Escherichia coli
+Bacteria_ileS_36	Bacteria	Enterobacterales	Enterobacteriaceae	Q83MH2.1	ileS	noEvidence	NA	Shigella
+Bacteria_ileS_37	Bacteria	Enterobacterales	Erwiniaceae	Q89AU9.1	ileS	noEvidence	NA	Buchnera aphidicola (Baizongia pistaciae)
+Bacteria_ileS_38	Bacteria	Enterobacterales	Yersiniaceae	A1JJE1.1	ileS	noEvidence	NA	Yersinia enterocolitica subsp. enterocolitica
+Bacteria_ileS_39	Bacteria	furtherCheck	furtherCheck	A1AW09.1	ileS	noEvidence	NA	Candidatus Ruthturnera calyptogenae
+Bacteria_ileS_40	Bacteria	furtherCheck	furtherCheck	A5CX61.1	ileS	noEvidence	NA	Candidatus Vesicomyosocius
+Bacteria_ileS_41	Bacteria	Legionellales	Coxiellaceae	B6J9J5.1	ileS	noEvidence	NA	Coxiella burnetii
+Bacteria_ileS_42	Bacteria	Legionellales	Coxiellaceae	B6J1S2.1	ileS	noEvidence	NA	Coxiella burnetii
+Bacteria_ileS_43	Bacteria	Legionellales	Coxiellaceae	A9KEI8.1	ileS	noEvidence	NA	Coxiella burnetii
+Bacteria_ileS_44	Bacteria	Legionellales	Legionellaceae	A5IFX5.1	ileS	noEvidence	NA	Legionella pneumophila
+Bacteria_ileS_45	Bacteria	Methylococcales	Methylococcaceae	Q605M7.1	ileS	noEvidence	NA	Methylococcus capsulatus
+Bacteria_ileS_46	Bacteria	Moraxellales	Moraxellaceae	Q6FG02.1	ileS	noEvidence	NA	Acinetobacter baylyi
+Bacteria_ileS_47	Bacteria	Pasteurellales	Pasteurellaceae	B3GZN4.1	ileS	noEvidence	NA	Actinobacillus pleuropneumoniae serovar 7
+Bacteria_ileS_48	Bacteria	Pseudomonadales	Pseudomonadaceae	C1DPH5.1	ileS	noEvidence	NA	Azotobacter vinelandii
+Bacteria_ileS_49	Bacteria	Pseudomonadales	Pseudomonadaceae	Q889E4.1	ileS	noEvidence	NA	Pseudomonas syringae pv. tomato
+Bacteria_ileS_50	Bacteria	Thiotrichales	Francisellaceae	A0Q529.1	ileS	noEvidence	NA	Francisella tularensis subsp. novicida
+Bacteria_ileS_51	Bacteria	Thiotrichales	Francisellaceae	A4IYP1.1	ileS	noEvidence	NA	Francisella tularensis subsp. tularensis
+Bacteria_ileS_52	Bacteria	Thiotrichales	Francisellaceae	Q14HT2.1	ileS	noEvidence	NA	Francisella tularensis subsp. tularensis
+Bacteria_ileS_53	Bacteria	Thiotrichales	Francisellaceae	Q5NGD0.1	ileS	noEvidence	NA	Francisella tularensis subsp. tularensis
+Bacteria_ileS_54	Bacteria	Vibrionales	Vibrionaceae	Q5E7N4.1	ileS	noEvidence	NA	Aliivibrio fischeri
+Bacteria_ileS_55	Bacteria	Vibrionales	Vibrionaceae	B6EMY6.1	ileS	noEvidence	NA	Aliivibrio salmonicida
+Bacteria_ileS_56	Bacteria	Vibrionales	Vibrionaceae	Q6LUL1.1	ileS	noEvidence	NA	Photobacterium profundum
+Bacteria_ileS_57	Bacteria	Vibrionales	Vibrionaceae	C3LST7.1	ileS	noEvidence	NA	Vibrio cholerae
+Bacteria_ileS_58	Bacteria	Xanthomonadales	Xanthomonadaceae	Q5H2E1.1	ileS	noEvidence	NA	Xanthomonas oryzae pv. oryzae
+Bacteria_ileS_59	Bacteria	Xanthomonadales	Xanthomonadaceae	Q9PAS7.1	ileS	noEvidence	NA	Xylella fastidiosa
+Bacteria_ileS_60	Bacteria	Leptospirales	Leptospiraceae	B0STE5.1	ileS	noEvidence	NA	Leptospira biflexa serovar Patoc
+Bacteria_ileS_61	Bacteria	Leptospirales	Leptospiraceae	B0SBW4.1	ileS	noEvidence	NA	Leptospira biflexa serovar Patoc
+Bacteria_ileS_62	Bacteria	Kitasatosporales	Streptomycetaceae	Q9S2X5.1	ileS	noEvidence	NA	Streptomyces coelicolor
+Bacteria_ileS_63	Bacteria	Bacillales	Bacillaceae	B9IVX2.1	ileS	noEvidence	NA	Bacillus cereus
+Bacteria_ileS_64	Bacteria	Bacillales	Bacillaceae	B7HLM9.1	ileS	noEvidence	NA	Bacillus cereus
+Bacteria_ileS_65	Bacteria	Bacillales	Bacillaceae	A7GRM0.1	ileS	noEvidence	NA	Bacillus cytotoxicus
+Bacteria_ileS_66	Bacteria	Bacillales	Bacillaceae	A9VTD5.1	ileS	noEvidence	NA	Bacillus mycoides
+Bacteria_ileS_67	Bacteria	Bacillales	Bacillaceae	A4IM25.1	ileS	noEvidence	NA	Geobacillus thermodenitrificans
+Bacteria_ileS_68	Bacteria	Bacillales	Bacillaceae	Q5L0V9.1	ileS	noEvidence	NA	Geobacillus kaustophilus
+Bacteria_ileS_69	Bacteria	Bacillales	Bacillaceae	Q9K9V0.1	ileS	noEvidence	NA	Halalkalibacterium halodurans
+Bacteria_ileS_70	Bacteria	Bacillales	Staphylococcaceae	B9EB60.1	ileS	noEvidence	NA	Macrococcus caseolyticus
+Bacteria_ileS_71	Bacteria	Bacillales	Staphylococcaceae	Q846V6.1	ileS	noEvidence	NA	Staphylococcus
+Bacteria_ileS_72	Bacteria	Bacillales	Staphylococcaceae	P41972.1	ileS	noEvidence	NA	Staphylococcus
+Bacteria_ileS_73	Bacteria	Bacillales	Staphylococcaceae	P41368.1	ileS	mupirocin	NA	Staphylococcus
+Bacteria_ileS_74	Bacteria	Bacillales	Staphylococcaceae	A7X1D8.1	ileS	noEvidence	NA	Staphylococcus aureus
+Bacteria_ileS_75	Bacteria	Bacillales	Staphylococcaceae	Q2YXH4.1	ileS	noEvidence	NA	Staphylococcus aureus
+Bacteria_ileS_76	Bacteria	Bacillales	Staphylococcaceae	P67508.1	ileS	noEvidence	NA	Staphylococcus aureus
+Bacteria_ileS_77	Bacteria	Bacillales	Staphylococcaceae	P67509.1	ileS	noEvidence	NA	Staphylococcus aureus
+Bacteria_ileS_78	Bacteria	Bacillales	Staphylococcaceae	Q8NX29.1	ileS	noEvidence	NA	Staphylococcus aureus
+Bacteria_ileS_79	Bacteria	Bacillales	Staphylococcaceae	B9DPP7.1	ileS	noEvidence	NA	Staphylococcus carnosus
+Bacteria_ileS_80	Bacteria	Lactobacillales	Lactobacillaceae	A8YUP7.1	ileS	noEvidence	NA	Lactobacillus helveticus
+Bacteria_ileS_81	Bacteria	Lactobacillales	Lactobacillaceae	Q38XM0.1	ileS	noEvidence	NA	Latilactobacillus sakei subsp. sakei
+Bacteria_ileS_82	Bacteria	Lactobacillales	Streptococcaceae	Q9CEH8.1	ileS	noEvidence	NA	Lactococcus lactis subsp. lactis
+Bacteria_ileS_83	Bacteria	Lactobacillales	Streptococcaceae	B5E709.1	ileS	noEvidence	NA	Streptococcus pneumoniae
+Bacteria_ileS_84	Bacteria	Lactobacillales	Streptococcaceae	Q04JB0.1	ileS	noEvidence	NA	Streptococcus pneumoniae
+Bacteria_ileS_85	Bacteria	Lactobacillales	Streptococcaceae	Q99YW3.1	ileS	noEvidence	NA	Streptococcus pyogenes
+Bacteria_ileS_86	Bacteria	Caldicellulosiruptorales	Caldicellulosiruptoraceae	A4XKR2.1	ileS	noEvidence	NA	Caldicellulosiruptor saccharolyticus
+Bacteria_ileS_87	Bacteria	Eubacteriales	Clostridiaceae	Q8XHE4.1	ileS	noEvidence	NA	Clostridium perfringens
+Bacteria_ileS_88	Bacteria	Eubacteriales	Desulfitobacteriaceae	B8FT35.1	ileS	noEvidence	NA	Desulfitobacterium hafniense
+Bacteria_ileS_89	Bacteria	Eubacteriales	Desulfitobacteriaceae	Q24TH1.1	ileS	noEvidence	NA	Desulfitobacterium hafniense
+Bacteria_ileS_90	Bacteria	Eubacteriales	Peptococcaceae	A4J2F4.1	ileS	noEvidence	NA	Desulforamulus reducens
+Bacteria_ileS_91	Bacteria	Eubacteriales	Symbiobacteriaceae	Q67Q27.1	ileS	noEvidence	NA	Symbiobacterium thermophilum
+Bacteria_ileS_92	Bacteria	Eubacteriales	Syntrophomonadaceae	Q0AYC7.1	ileS	noEvidence	NA	Syntrophomonas wolfei subsp. wolfei
+Bacteria_ileS_93	Bacteria	Halanaerobiales	Halothermotrichaceae	B8CWL4.1	ileS	noEvidence	NA	Halothermothrix orenii
+Bacteria_ileS_94	Bacteria	Thermoanaerobacterales	Thermoanaerobacteraceae	B0K8R7.1	ileS	noEvidence	NA	Thermoanaerobacter pseudethanolicus
+Bacteria_ileS_95	Bacteria	Thermoanaerobacterales	Thermoanaerobacteraceae	B0K2W1.1	ileS	noEvidence	NA	unclassified Thermoanaerobacter
+Bacteria_ileS_96	Bacteria	Gloeobacterales	Gloeobacteraceae	Q7NF75.1	ileS	noEvidence	NA	Gloeobacter violaceus
+Bacteria_ileS_97	Bacteria	Chroococcales	Aphanothecaceae	B7KFT1.1	ileS	noEvidence	NA	Gloeothece citriformis
+Bacteria_ileS_98	Bacteria	Chroococcales	Aphanothecaceae	B7K5H5.1	ileS	noEvidence	NA	Rippkaea orientalis
+Bacteria_ileS_99	Bacteria	Chroococcales	Microcystaceae	B0JSP4.1	ileS	noEvidence	NA	Microcystis aeruginosa
+Bacteria_ileS_100	Bacteria	Oscillatoriales	Cyanothecaceae	B8HMX3.1	ileS	noEvidence	NA	unclassified Cyanothece
+Bacteria_ileS_101	Bacteria	Thermales	Thermaceae	P56690.2	ileS	noEvidence	NA	Thermus thermophilus
+Bacteria_ileS_102	Bacteria	Mycoplasmatales	Mycoplasmataceae	Q6MT28.1	ileS	noEvidence	NA	Mycoplasma mycoides subsp. mycoides SC
+Bacteria_ileS_103	Bacteria	Mycoplasmatales	Mycoplasmataceae	A5IY09.1	ileS	noEvidence	NA	Mycoplasmopsis agalactiae
+Bacteria_ileS_104	Bacteria	Mycoplasmatales	Mycoplasmataceae	Q98PQ2.1	ileS	noEvidence	NA	Mycoplasmopsis pulmonis
+Bacteria_ileS_105	Bacteria	Mycoplasmoidales	Metamycoplasmataceae	Q7NBG0.2	ileS	noEvidence	NA	Mycoplasmoides gallisepticum str. R
+Bacteria_ileS_106	Bacteria	Mycoplasmoidales	Metamycoplasmataceae	P47587.2	ileS	noEvidence	NA	Mycoplasmoides genitalium
+Bacteria_ileS_107	Bacteria	Mycoplasmoidales	Mycoplasmoidaceae	Q8EUN9.1	ileS	noEvidence	NA	Malacoplasma penetrans
+Bacteria_ileS_108	Bacteria	Desulfovibrionales	Desulfovibrionaceae	Q30ZF7.1	ileS	noEvidence	NA	Oleidesulfovibrio alaskensis
+Bacteria_ileS_109	Bacteria	Petrotogales	Petrotogaceae	A9BI29.1	ileS	noEvidence	NA	Petrotoga mobilis
+Bacteria_ileS1_1	Bacteria	Pseudomonadales	Pseudomonadaceae	P18330.2	ileS1	noEvidence	NA	Pseudomonas fluorescens group
+Bacteria_ileS1_2	Bacteria	Bacillales	Bacillaceae	Q8ER41.1	ileS1	noEvidence	NA	Oceanobacillus iheyensis
+Bacteria_ileS2_1	Bacteria	Pseudomonadales	Pseudomonadaceae	BAC07171.1	ileS2	mupirocin	Pseudomonadota	Pseudomonas fluorescens
+Bacteria_ileS2_2	Bacteria	Burkholderiales	Burkholderiaceae	Q62CD5.1	ileS2	noEvidence	NA	Burkholderia mallei
+Bacteria_ileS2_3	Bacteria	Burkholderiales	Burkholderiaceae	Q63KP6.1	ileS2	noEvidence	NA	Burkholderia pseudomallei
+Bacteria_ileS2_4	Bacteria	Pseudomonadales	Pseudomonadaceae	Q8L1B1.3	ileS2	mupirocin	NA	Pseudomonas fluorescens group
+Bacteria_ileS2_5	Bacteria	Bacillales	Bacillaceae	Q81R75.1	ileS2	noEvidence	NA	Bacillus cereus group
+Bacteria_ileS2_6	Bacteria	Bacillales	Bacillaceae	Q739A1.1	ileS2	noEvidence	NA	Bacillus cereus
+Bacteria_ileS2_7	Bacteria	Bacillales	Bacillaceae	Q81E30.2	ileS2	noEvidence	NA	Bacillus cereus
+Bacteria_ileS2_8	Bacteria	Bacillales	Bacillaceae	Q63BZ8.1	ileS2	noEvidence	NA	Bacillus cereus
+Bacteria_ileS2_9	Bacteria	Bacillales	Bacillaceae	Q6HJF2.1	ileS2	noEvidence	NA	[Bacillus thuringiensis] serovar konkukian
+Bacteria_ileS2_10	Bacteria	Bacillales	Bacillaceae	Q8ET99.1	ileS2	noEvidence	NA	Oceanobacillus iheyensis
+Eukaryota_ileS_1	Eukaryota	Schizosaccharomycetales	Schizosaccharomycetaceae	Q9USL3.1	NA	NA	NA	Schizosaccharomyces pombe
+Eukaryota_ileS_2	Eukaryota	Saccharomycetales	Saccharomycetaceae	P09436.1	NA	NA	NA	Saccharomyces cerevisiae
+Eukaryota_ileS_3	Eukaryota	Saccharomycetales	Saccharomycetaceae	P48526.2	NA	NA	NA	Saccharomyces cerevisiae
+Eukaryota_ileS_4	Eukaryota	furtherCheck	furtherCheck	B7XK16.1	NA	NA	NA	Enterocytozoon bieneusi
+Eukaryota_ileS_5	Eukaryota	furtherCheck	furtherCheck	Q8BIJ6.1	NA	NA	NA	Mus
+Eukaryota_ileS_6	Eukaryota	furtherCheck	furtherCheck	Q4R646.2	NA	NA	NA	Macaca
+Eukaryota_ileS_7	Eukaryota	furtherCheck	furtherCheck	Q9NSE4.2	NA	NA	NA	Homo
+Eukaryota_ileS_8	Eukaryota	furtherCheck	furtherCheck	Q5ZKA2.1	NA	NA	NA	Gallus
+Eukaryota_ileS_9	Eukaryota	furtherCheck	furtherCheck	Q21926.1	NA	NA	NA	Caenorhabditis
+Eukaryota_ileS_10	Eukaryota	Brassicales	Brassicaceae	Q8RXK8.1	NA	NA	NA	Arabidopsis
+Eukaryota_ileS_11	Eukaryota	NA	NA	4096.XP_009759400.1	NA	NA	NA	Nicotiana sylvestris
+Eukaryota_ileS_12	Eukaryota	NA	NA	4098.XP_009617388.1	NA	NA	NA	Nicotiana tomentosiformis
+Eukaryota_ileS_13	Eukaryota	NA	NA	159749.K0R5E0	NA	NA	NA	Thalassiosira oceanica
+Eukaryota_ileS_14	Eukaryota	NA	NA	67593.Physo108612	NA	NA	NA	Phytophthora sojae
+Eukaryota_ileS_15	Eukaryota	NA	NA	118797.XP_007468241.1	NA	NA	NA	Lipotes vexillifer
+Eukaryota_ileS_16	Eukaryota	NA	NA	4113.PGSC0003DMT400034732	NA	NA	NA	Solanum tuberosum
+Eukaryota_ileS_17	Eukaryota	NA	NA	61459.XP_007782854.1	NA	NA	NA	Coniosporium apollinis
+Eukaryota_ileS_18	Eukaryota	NA	NA	34839.XP_005408975.1	NA	NA	NA	Chinchilla lanigera
+Eukaryota_ileS_19	Eukaryota	NA	NA	34839.XP_005408985.1	NA	NA	NA	Chinchilla lanigera
+Eukaryota_ileS_20	Eukaryota	NA	NA	470704.XP_007759914.1	NA	NA	NA	Cladophialophora yegresii
+Eukaryota_ileS_21	Eukaryota	NA	NA	6183.Smp_041600.1	NA	NA	NA	Schistosoma mansoni
+Eukaryota_ileS_22	Eukaryota	NA	NA	15368.BRADI1G30610.1	NA	NA	NA	Brachypodium distachyon
+Eukaryota_ileS_23	Eukaryota	NA	NA	36914.XP_001524021.1	NA	NA	NA	Lodderomyces elongisporus
+Eukaryota_ileS_24	Eukaryota	NA	NA	36914.XP_001524022.1	NA	NA	NA	Lodderomyces elongisporus
+Eukaryota_ileS_25	Eukaryota	NA	NA	4155.Migut.D00680.1.p	NA	NA	NA	Erythranthe guttata
+Eukaryota_ileS_26	Eukaryota	NA	NA	208960.XP_007266605.1	NA	NA	NA	Fomitiporia mediterranea
+Eukaryota_ileS_27	Eukaryota	NA	NA	28737.XP_006900797.1	NA	NA	NA	Elephantulus edwardii
+Eukaryota_ileS_28	Eukaryota	NA	NA	6211.A0A068Y063	NA	NA	NA	Echinococcus multilocularis
+Eukaryota_ileS_29	Eukaryota	NA	NA	59463.ENSMLUP00000013843	NA	NA	NA	Myotis lucifugus
+Eukaryota_ileS_30	Eukaryota	NA	NA	698440.XP_007295259.1	NA	NA	NA	Marssonina brunnea
+Eukaryota_ileS_31	Eukaryota	NA	NA	45130.XP_007705214.1	NA	NA	NA	Bipolaris sorokiniana
+Eukaryota_ileS_32	Eukaryota	NA	NA	106582.XP_004548609.1	NA	NA	NA	Maylandia zebra
+Eukaryota_ileS_33	Eukaryota	NA	NA	63577.G9NX67	NA	NA	NA	Trichoderma atroviride
+Eukaryota_ileS_34	Eukaryota	NA	NA	981085.XP_010097489.1	NA	NA	NA	Morus notabilis
+Eukaryota_ileS_35	Eukaryota	NA	NA	6238.CBG23754	NA	NA	NA	Caenorhabditis briggsae
+Eukaryota_ileS_36	Eukaryota	NA	NA	45151.EDU39639	NA	NA	NA	Pyrenophora tritici-repentis
+Eukaryota_ileS_37	Eukaryota	NA	NA	45151.EDU42320	NA	NA	NA	Pyrenophora tritici-repentis
+Eukaryota_ileS_38	Eukaryota	NA	NA	45157.CMT280CT	NA	NA	NA	Cyanidioschyzon merolae
+Eukaryota_ileS_39	Eukaryota	NA	NA	936053.I1CG62	NA	NA	NA	Rhizopus delemar
+Eukaryota_ileS_40	Eukaryota	NA	NA	381046.XP_002552510.1	NA	NA	NA	Lachancea thermotolerans
+Eukaryota_ileS_41	Eukaryota	NA	NA	225400.XP_006759045.1	NA	NA	NA	Myotis davidii
+Eukaryota_ileS_42	Eukaryota	NA	NA	225400.XP_006757467.1	NA	NA	NA	Myotis davidii
+Eukaryota_ileS_43	Eukaryota	NA	NA	5141.EFNCRP00000002627	NA	NA	NA	Neurospora crassa
+Eukaryota_ileS_44	Eukaryota	NA	NA	293227.XP_008715570.1	NA	NA	NA	Cyphellophora europaea
+Eukaryota_ileS_45	Eukaryota	NA	NA	65672.G4TAJ1	NA	NA	NA	Piriformospora indica
+Eukaryota_ileS_46	Eukaryota	NA	NA	51337.XP_004652353.1	NA	NA	NA	Jaculus jaculus
+Eukaryota_ileS_47	Eukaryota	NA	NA	161934.XP_010671810.1	NA	NA	NA	Beta vulgaris
+Eukaryota_ileS_48	Eukaryota	NA	NA	43151.ADAC007179-PA	NA	NA	NA	Anopheles darlingi
+Eukaryota_ileS_49	Eukaryota	NA	NA	59538.XP_005971582.1	NA	NA	NA	Pantholops hodgsonii
+Eukaryota_ileS_50	Eukaryota	NA	NA	176275.XP_008603656.1	NA	NA	NA	Beauveria bassiana
+Eukaryota_ileS_51	Eukaryota	NA	NA	176275.XP_008596210.1	NA	NA	NA	Beauveria bassiana
+Eukaryota_ileS_52	Eukaryota	NA	NA	69781.S8ATY8	NA	NA	NA	Penicillium oxalicum
+Eukaryota_ileS_53	Eukaryota	NA	NA	43179.ENSSTOP00000013608	NA	NA	NA	Ictidomys tridecemlineatus
+Eukaryota_ileS_54	Eukaryota	NA	NA	8364.ENSXETP00000063006	NA	NA	NA	Xenopus (Silurana)
+Eukaryota_ileS_55	Eukaryota	NA	NA	6326.BUX.s01653.309	NA	NA	NA	Bursaphelenchus xylophilus
+Eukaryota_ileS_56	Eukaryota	NA	NA	946362.XP_004993500.1	NA	NA	NA	Salpingoeca rosetta
+Eukaryota_ileS_57	Eukaryota	NA	NA	364733.XP_007786421.1	NA	NA	NA	Endocarpon pusillum
+Eukaryota_ileS_58	Eukaryota	NA	NA	6334.EFV55653	NA	NA	NA	Trichinella spiralis
+Eukaryota_ileS_59	Eukaryota	NA	NA	1173701.A0A066XAC8	NA	NA	NA	Colletotrichum sublineola
+Eukaryota_ileS_60	Eukaryota	NA	NA	1173701.A0A066X636	NA	NA	NA	Colletotrichum sublineola
+Eukaryota_ileS_61	Eukaryota	NA	NA	86049.XP_008724927.1	NA	NA	NA	Cladophialophora carrionii
+Eukaryota_ileS_62	Eukaryota	NA	NA	340170.XP_007377487.1	NA	NA	NA	Spathaspora passalidarum
+Eukaryota_ileS_63	Eukaryota	NA	NA	264402.Cagra.9616s0002.1.p	NA	NA	NA	Capsella grandiflora
+Eukaryota_ileS_64	Eukaryota	NA	NA	264402.Cagra.12686s0002.1.p	NA	NA	NA	Capsella grandiflora
+Eukaryota_ileS_65	Eukaryota	NA	NA	43228.XP_007735035.1	NA	NA	NA	Capronia epimyces
+Eukaryota_ileS_66	Eukaryota	NA	NA	43229.XP_007723715.1	NA	NA	NA	Capronia coronata
+Eukaryota_ileS_67	Eukaryota	NA	NA	45285.XP_003646515.1	NA	NA	NA	Eremothecium cymbalariae
+Eukaryota_ileS_68	Eukaryota	NA	NA	55529.EKX47477	NA	NA	NA	Guillardia theta
+Eukaryota_ileS_69	Eukaryota	NA	NA	55529.EKX54118	NA	NA	NA	Guillardia theta
+Eukaryota_ileS_70	Eukaryota	NA	NA	53485.EFQ90883	NA	NA	NA	Pyrenophora teres
+Eukaryota_ileS_71	Eukaryota	NA	NA	9597.XP_003807881.1	NA	NA	NA	Pan paniscus
+Eukaryota_ileS_72	Eukaryota	NA	NA	866546.EPY49273	NA	NA	NA	Schizosaccharomyces cryophilus
+Eukaryota_ileS_73	Eukaryota	NA	NA	1048829.XP_002790869.1	NA	NA	NA	Paracoccidioides sp.
+Eukaryota_ileS_74	Eukaryota	NA	NA	6412.HelroP195134	NA	NA	NA	Helobdella robusta
+Eukaryota_ileS_75	Eukaryota	NA	NA	6412.HelroP81400	NA	NA	NA	Helobdella robusta
+Eukaryota_ileS_76	Eukaryota	NA	NA	1071379.XP_004182222.1	NA	NA	NA	Tetrapisispora blattae
+Eukaryota_ileS_77	Eukaryota	NA	NA	8469.XP_007055642.1	NA	NA	NA	Chelonia mydas
+Eukaryota_ileS_78	Eukaryota	NA	NA	7897.ENSLACP00000021524	NA	NA	NA	Latimeria chalumnae
+Eukaryota_ileS_79	Eukaryota	NA	NA	8479.XP_005279973.1	NA	NA	NA	Chrysemys picta
+Eukaryota_ileS_80	Eukaryota	NA	NA	42374.XP_002421210.1	NA	NA	NA	Candida dubliniensis
+Eukaryota_ileS_81	Eukaryota	NA	NA	45351.EDO38650	NA	NA	NA	Nematostella vectensis
+Eukaryota_ileS_82	Eukaryota	NA	NA	45351.EDO26444	NA	NA	NA	Nematostella vectensis
+Eukaryota_ileS_83	Eukaryota	NA	NA	45351.EDO27984	NA	NA	NA	Nematostella vectensis
+Eukaryota_ileS_84	Eukaryota	NA	NA	59689.fgenesh1_pg.C_scaffold_3002222	NA	NA	NA	Arabidopsis lyrata
+Eukaryota_ileS_85	Eukaryota	NA	NA	59689.fgenesh1_pg.C_scaffold_1003664	NA	NA	NA	Arabidopsis lyrata
+Eukaryota_ileS_86	Eukaryota	NA	NA	59689.fgenesh2_kg.6__3009__AT4G10320.1	NA	NA	NA	Arabidopsis lyrata
+Eukaryota_ileS_87	Eukaryota	NA	NA	59689.scaffold_704013.1	NA	NA	NA	Arabidopsis lyrata
+Eukaryota_ileS_88	Eukaryota	NA	NA	8496.XP_006272149.1	NA	NA	NA	Alligator mississippiensis
+Eukaryota_ileS_89	Eukaryota	NA	NA	51511.ENSCSAVP00000013773	NA	NA	NA	Ciona savignyi
+Eukaryota_ileS_90	Eukaryota	NA	NA	35128.Thaps36339	NA	NA	NA	Thalassiosira pseudonana
+Eukaryota_ileS_91	Eukaryota	NA	NA	28985.XP_454879.1	NA	NA	NA	Kluyveromyces lactis
+Eukaryota_ileS_92	Eukaryota	NA	NA	215358.XP_010744697.1	NA	NA	NA	Larimichthys crocea
+Eukaryota_ileS_93	Eukaryota	NA	NA	5057.CADACLAP00001698	NA	NA	NA	Aspergillus clavatus
+Eukaryota_ileS_94	Eukaryota	NA	NA	72004.XP_005901888.1	NA	NA	NA	Bos mutus
+Eukaryota_ileS_95	Eukaryota	NA	NA	4432.XP_010246728.1	NA	NA	NA	Nelumbo nucifera
+Eukaryota_ileS_96	Eukaryota	NA	NA	72019.SARC_18318T0	NA	NA	NA	Sphaeroforma arctica
+Eukaryota_ileS_97	Eukaryota	NA	NA	72019.SARC_10766T0	NA	NA	NA	Sphaeroforma arctica
+Eukaryota_ileS_98	Eukaryota	NA	NA	72019.SARC_13835T0	NA	NA	NA	Sphaeroforma arctica
+Eukaryota_ileS_99	Eukaryota	NA	NA	1561998.Csp11.Scaffold630.g17782.t1	NA	NA	NA	Caenorhabditis tropicalis
+Eukaryota_ileS_100	Eukaryota	NA	NA	5808.XP_002142407.1	NA	NA	NA	Cryptosporidium muris
+Eukaryota_ileS_101	Eukaryota	NA	NA	83344.XP_007926504.1	NA	NA	NA	Pseudocercospora fijiensis
+Eukaryota_ileS_102	Eukaryota	NA	NA	6500.XP_005110126.1	NA	NA	NA	Aplysia californica
+Eukaryota_ileS_103	Eukaryota	NA	NA	33169.AAS53073	NA	NA	NA	Eremothecium gossypii
+Eukaryota_ileS_104	Eukaryota	NA	NA	192875.XP_004345266.1	NA	NA	NA	Capsaspora owczarzaki
+Eukaryota_ileS_105	Eukaryota	NA	NA	209285.XP_006691266.1	NA	NA	NA	Chaetomium thermophilum
+Eukaryota_ileS_106	Eukaryota	NA	NA	81985.XP_006299767.1	NA	NA	NA	Capsella rubella
+Eukaryota_ileS_107	Eukaryota	NA	NA	81985.XP_006286935.1	NA	NA	NA	Capsella rubella
+Eukaryota_ileS_108	Eukaryota	NA	NA	121225.PHUM515270-PA	NA	NA	NA	Pediculus humanus
+Eukaryota_ileS_109	Eukaryota	NA	NA	1005962.W1QJI2	NA	NA	NA	Ogataea parapolymorpha
+Eukaryota_ileS_110	Eukaryota	NA	NA	29073.XP_008689079.1	NA	NA	NA	Ursus maritimus
+Eukaryota_ileS_111	Eukaryota	NA	NA	393283.XP_007835797.1	NA	NA	NA	Pestalotiopsis fici
+Eukaryota_ileS_112	Eukaryota	NA	NA	29078.XP_008155110.1	NA	NA	NA	Eptesicus fuscus
+Eukaryota_ileS_113	Eukaryota	NA	NA	33178.CADATEAP00007534	NA	NA	NA	Aspergillus terreus
+Eukaryota_ileS_114	Eukaryota	NA	NA	61853.ENSNLEP00000019833	NA	NA	NA	Nomascus leucogenys
+Eukaryota_ileS_115	Eukaryota	NA	NA	303518.XP_005724732.1	NA	NA	NA	Pundamilia nyererei
+Eukaryota_ileS_116	Eukaryota	NA	NA	4513.MLOC_4966.5	NA	NA	NA	Hordeum vulgare
+Eukaryota_ileS_117	Eukaryota	NA	NA	430498.S8B8U8	NA	NA	NA	Dactylellina haptotyla
+Eukaryota_ileS_118	Eukaryota	NA	NA	33188.XP_002582447.1	NA	NA	NA	Uncinocarpus reesii
+Eukaryota_ileS_119	Eukaryota	NA	NA	4529.ORUFI02G06460.1	NA	NA	NA	Oryza rufipogon
+Eukaryota_ileS_120	Eukaryota	NA	NA	4529.ORUFI06G24310.1	NA	NA	NA	Oryza rufipogon
+Eukaryota_ileS_121	Eukaryota	NA	NA	4530.OS06T0645400-01	NA	NA	NA	Oryza sativa
+Eukaryota_ileS_122	Eukaryota	NA	NA	4530.OS02T0183900-00	NA	NA	NA	Oryza sativa
+Eukaryota_ileS_123	Eukaryota	NA	NA	5875.XP_764876.1	NA	NA	NA	Theileria parva
+Eukaryota_ileS_124	Eukaryota	NA	NA	4533.OB06G30300.1	NA	NA	NA	Oryza brachyantha
+Eukaryota_ileS_125	Eukaryota	NA	NA	4533.OB02G15660.1	NA	NA	NA	Oryza brachyantha
+Eukaryota_ileS_126	Eukaryota	NA	NA	4533.OB12G18220.1	NA	NA	NA	Oryza brachyantha
+Eukaryota_ileS_127	Eukaryota	NA	NA	4536.ONIVA06G26580.1	NA	NA	NA	Oryza nivara
+Eukaryota_ileS_128	Eukaryota	NA	NA	4536.ONIVA02G07350.1	NA	NA	NA	Oryza nivara
+Eukaryota_ileS_129	Eukaryota	NA	NA	4537.OPUNC02G05600.1	NA	NA	NA	Oryza punctata
+Eukaryota_ileS_130	Eukaryota	NA	NA	4537.OPUNC06G20390.1	NA	NA	NA	Oryza punctata
+Eukaryota_ileS_131	Eukaryota	NA	NA	4538.ORGLA02G0058700.1	NA	NA	NA	Oryza glaberrima
+Eukaryota_ileS_132	Eukaryota	NA	NA	4538.ORGLA06G0189000.1	NA	NA	NA	Oryza glaberrima
+Eukaryota_ileS_133	Eukaryota	NA	NA	4538.ORGLA02G0058600.1	NA	NA	NA	Oryza glaberrima
+Eukaryota_ileS_134	Eukaryota	NA	NA	37727.XP_002146145.1	NA	NA	NA	Talaromyces marneffei
+Eukaryota_ileS_135	Eukaryota	NA	NA	117187.FVEG_11382T0	NA	NA	NA	Fusarium verticillioides
+Eukaryota_ileS_136	Eukaryota	NA	NA	9767.XP_007182456.1	NA	NA	NA	Balaenoptera acutorostrata
+Eukaryota_ileS_137	Eukaryota	NA	NA	4555.Si005726m	NA	NA	NA	Setaria italica
+Eukaryota_ileS_138	Eukaryota	NA	NA	4558.Sb06g002741.1	NA	NA	NA	Sorghum bicolor
+Eukaryota_ileS_139	Eukaryota	NA	NA	4558.Sb10g025355.1	NA	NA	NA	Sorghum bicolor
+Eukaryota_ileS_140	Eukaryota	NA	NA	4558.Sb06g002780.1	NA	NA	NA	Sorghum bicolor
+Eukaryota_ileS_141	Eukaryota	NA	NA	4558.Sb06g002701.1	NA	NA	NA	Sorghum bicolor
+Eukaryota_ileS_142	Eukaryota	NA	NA	4558.Sb10g025350.1	NA	NA	NA	Sorghum bicolor
+Eukaryota_ileS_143	Eukaryota	NA	NA	4558.Sb04g035150.1	NA	NA	NA	Sorghum bicolor
+Eukaryota_ileS_144	Eukaryota	NA	NA	4565.Traes_7DL_926D6088C.1	NA	NA	NA	Triticum aestivum
+Eukaryota_ileS_145	Eukaryota	NA	NA	4565.Traes_7AL_C4A1E88AB.1	NA	NA	NA	Triticum aestivum
+Eukaryota_ileS_146	Eukaryota	NA	NA	4565.Traes_7BL_D5BBB846B.1	NA	NA	NA	Triticum aestivum
+Eukaryota_ileS_147	Eukaryota	NA	NA	4565.Traes_7DL_30AEE2CF6.2	NA	NA	NA	Triticum aestivum
+Eukaryota_ileS_148	Eukaryota	NA	NA	4565.Traes_1AL_B45E02BBA.3	NA	NA	NA	Triticum aestivum
+Eukaryota_ileS_149	Eukaryota	NA	NA	4572.TRIUR3_08914-P1	NA	NA	NA	Triticum urartu
+Eukaryota_ileS_150	Eukaryota	NA	NA	4572.TRIUR3_26898-P1	NA	NA	NA	Triticum urartu
+Eukaryota_ileS_151	Eukaryota	NA	NA	92637.XP_007815088.1	NA	NA	NA	Metarhizium acridum
+Eukaryota_ileS_152	Eukaryota	NA	NA	92637.XP_007811971.1	NA	NA	NA	Metarhizium acridum
+Eukaryota_ileS_153	Eukaryota	NA	NA	4577.GRMZM2G013773_P01	NA	NA	NA	Zea mays
+Eukaryota_ileS_154	Eukaryota	NA	NA	4577.GRMZM2G348666_P01	NA	NA	NA	Zea mays
+Eukaryota_ileS_155	Eukaryota	NA	NA	4577.AC203752.5_FGP002	NA	NA	NA	Zea mays
+Eukaryota_ileS_156	Eukaryota	NA	NA	4577.GRMZM2G158627_P03	NA	NA	NA	Zea mays
+Eukaryota_ileS_157	Eukaryota	NA	NA	4577.GRMZM5G820287_P02	NA	NA	NA	Zea mays
+Eukaryota_ileS_158	Eukaryota	NA	NA	135651.CBN00305	NA	NA	NA	Caenorhabditis brenneri
+Eukaryota_ileS_159	Eukaryota	NA	NA	135651.CBN21416	NA	NA	NA	Caenorhabditis brenneri
+Eukaryota_ileS_160	Eukaryota	NA	NA	164328.Phyra86561	NA	NA	NA	Phytophthora ramorum
+Eukaryota_ileS_161	Eukaryota	NA	NA	164328.Phyra87296	NA	NA	NA	Phytophthora ramorum
+Eukaryota_ileS_162	Eukaryota	NA	NA	164328.Phyra83849	NA	NA	NA	Phytophthora ramorum
+Eukaryota_ileS_163	Eukaryota	NA	NA	327079.R9NWP8	NA	NA	NA	Pseudozyma hubeiensis
+Eukaryota_ileS_164	Eukaryota	NA	NA	242159.ABO94713	NA	NA	NA	Ostreococcus 'lucimarinus'
+Eukaryota_ileS_165	Eukaryota	NA	NA	59894.ENSFALP00000010699	NA	NA	NA	Ficedula albicollis
+Eukaryota_ileS_166	Eukaryota	NA	NA	29176.XP_003879808.1	NA	NA	NA	Neospora caninum
+Eukaryota_ileS_167	Eukaryota	NA	NA	31234.CRE07960	NA	NA	NA	Caenorhabditis remanei
+Eukaryota_ileS_168	Eukaryota	NA	NA	31234.CRE11089	NA	NA	NA	Caenorhabditis remanei
+Eukaryota_ileS_169	Eukaryota	NA	NA	5207.AAW40802	NA	NA	NA	Cryptococcus neoformans
+Eukaryota_ileS_170	Eukaryota	NA	NA	6669.EFX63983	NA	NA	NA	Daphnia pulex
+Eukaryota_ileS_171	Eukaryota	NA	NA	6669.EFX63982	NA	NA	NA	Daphnia pulex
+Eukaryota_ileS_172	Eukaryota	NA	NA	6669.EFX61030	NA	NA	NA	Daphnia pulex
+Eukaryota_ileS_173	Eukaryota	NA	NA	6669.EFX82992	NA	NA	NA	Daphnia pulex
+Eukaryota_ileS_174	Eukaryota	NA	NA	45596.XP_006685300.1	NA	NA	NA	Candida tenuis
+Eukaryota_ileS_175	Eukaryota	NA	NA	4641.GSMUA_Achr10P10140_001	NA	NA	NA	Musa acuminata
+Eukaryota_ileS_176	Eukaryota	NA	NA	72228.T5ACI0	NA	NA	NA	Ophiocordyceps sinensis
+Eukaryota_ileS_177	Eukaryota	NA	NA	160860.XP_007349150.1	NA	NA	NA	Auricularia delicata
+Eukaryota_ileS_178	Eukaryota	NA	NA	90675.XP_010456841.1	NA	NA	NA	Camelina sativa
+Eukaryota_ileS_179	Eukaryota	NA	NA	90675.XP_010468405.1	NA	NA	NA	Camelina sativa
+Eukaryota_ileS_180	Eukaryota	NA	NA	90675.XP_010488354.1	NA	NA	NA	Camelina sativa
+Eukaryota_ileS_181	Eukaryota	NA	NA	90675.XP_010456842.1	NA	NA	NA	Camelina sativa
+Eukaryota_ileS_182	Eukaryota	NA	NA	90675.XP_010421953.1	NA	NA	NA	Camelina sativa
+Eukaryota_ileS_183	Eukaryota	NA	NA	90675.XP_010437218.1	NA	NA	NA	Camelina sativa
+Eukaryota_ileS_184	Eukaryota	NA	NA	90675.XP_010497573.1	NA	NA	NA	Camelina sativa
+Eukaryota_ileS_185	Eukaryota	NA	NA	272952.HpaP803766	NA	NA	NA	Hyaloperonospora arabidopsidis
+Eukaryota_ileS_186	Eukaryota	NA	NA	6239.R11A8.6.1	NA	NA	NA	Caenorhabditis elegans
+Eukaryota_ileS_187	Eukaryota	NA	NA	57918.XP_004295119.1	NA	NA	NA	Fragaria vesca
+Eukaryota_ileS_188	Eukaryota	NA	NA	57918.XP_004296724.1	NA	NA	NA	Fragaria vesca
+Eukaryota_ileS_189	Eukaryota	NA	NA	82508.K1WMK1	NA	NA	NA	Trichosporon asahii
+Eukaryota_ileS_190	Eukaryota	NA	NA	28564.XP_002478443.1	NA	NA	NA	Talaromyces stipitatus
+Eukaryota_ileS_191	Eukaryota	NA	NA	655981.L8GAU2	NA	NA	NA	Pseudogymnoascus destructans
+Eukaryota_ileS_192	Eukaryota	NA	NA	162425.CADANIAP00001964	NA	NA	NA	Aspergillus nidulans
+Eukaryota_ileS_193	Eukaryota	NA	NA	653948.CCA23914	NA	NA	NA	Albugo laibachii
+Eukaryota_ileS_194	Eukaryota	NA	NA	653948.CCA22276	NA	NA	NA	Albugo laibachii
+Eukaryota_ileS_195	Eukaryota	NA	NA	1047171.Mycgr3P32217	NA	NA	NA	Zymoseptoria tritici
+Eukaryota_ileS_196	Eukaryota	NA	NA	199306.XP_003068790.1	NA	NA	NA	Coccidioides posadasii
+Eukaryota_ileS_197	Eukaryota	NA	NA	746128.CADAFUBP00001299	NA	NA	NA	Aspergillus fumigatus
+Eukaryota_ileS_198	Eukaryota	NA	NA	2711.XP_006494186.1	NA	NA	NA	Citrus sinensis
+Eukaryota_ileS_199	Eukaryota	NA	NA	27288.XP_003676686.1	NA	NA	NA	Naumovozyma castellii
+Eukaryota_ileS_200	Eukaryota	NA	NA	27289.XP_003670474.1	NA	NA	NA	Naumovozyma dairenensis
+Eukaryota_ileS_201	Eukaryota	NA	NA	12957.ACEP19493-PA	NA	NA	NA	Atta cephalotes
+Eukaryota_ileS_202	Eukaryota	NA	NA	101028.EKJ78485	NA	NA	NA	Fusarium pseudograminearum
+Eukaryota_ileS_203	Eukaryota	NA	NA	246437.XP_006161537.1	NA	NA	NA	Tupaia chinensis
+Eukaryota_ileS_204	Eukaryota	NA	NA	110365.A0A023B9V1	NA	NA	NA	Gregarina niphandrodes
+Eukaryota_ileS_205	Eukaryota	NA	NA	4787.PITG_08579T0	NA	NA	NA	Phytophthora infestans
+Eukaryota_ileS_206	Eukaryota	NA	NA	4792.ETI43287	NA	NA	NA	Phytophthora parasitica
+Eukaryota_ileS_207	Eukaryota	NA	NA	27337.EGY18340	NA	NA	NA	Verticillium dahliae
+Eukaryota_ileS_208	Eukaryota	NA	NA	115417.EPrPW00000023746	NA	NA	NA	Pythium iwayamai
+Eukaryota_ileS_209	Eukaryota	NA	NA	244447.XP_008318812.1	NA	NA	NA	Cynoglossus semilaevis
+Eukaryota_ileS_210	Eukaryota	NA	NA	8932.XP_005508940.1	NA	NA	NA	Columba livia
+Eukaryota_ileS_211	Eukaryota	NA	NA	13037.EHJ67602	NA	NA	NA	Danaus plexippus
+Eukaryota_ileS_212	Eukaryota	NA	NA	78579.XP_003666575.1	NA	NA	NA	Myceliophthora thermophila
+Eukaryota_ileS_213	Eukaryota	NA	NA	264951.V5G6T4	NA	NA	NA	Byssochlamys spectabilis
+Eukaryota_ileS_214	Eukaryota	NA	NA	264951.V5G3J1	NA	NA	NA	Byssochlamys spectabilis
+Eukaryota_ileS_215	Eukaryota	NA	NA	80637.XP_007766512.1	NA	NA	NA	Coniophora puteana
+Eukaryota_ileS_216	Eukaryota	NA	NA	5932.XP_004030993.1	NA	NA	NA	Ichthyophthirius multifiliis
+Eukaryota_ileS_217	Eukaryota	NA	NA	5932.XP_004037313.1	NA	NA	NA	Ichthyophthirius multifiliis
+Eukaryota_ileS_218	Eukaryota	NA	NA	568076.XP_007818881.1	NA	NA	NA	Metarhizium robertsii
+Eukaryota_ileS_219	Eukaryota	NA	NA	568076.XP_007819473.1	NA	NA	NA	Metarhizium robertsii
+Eukaryota_ileS_220	Eukaryota	NA	NA	84751.XP_007878799.1	NA	NA	NA	Pseudozyma flocculosa
+Eukaryota_ileS_221	Eukaryota	NA	NA	4896.SPBC8D2.06.1	NA	NA	NA	Schizosaccharomyces pombe
+Eukaryota_ileS_222	Eukaryota	NA	NA	4897.EEB08391	NA	NA	NA	Schizosaccharomyces japonicus
+Eukaryota_ileS_223	Eukaryota	NA	NA	2850.Phatr29824	NA	NA	NA	Phaeodactylum tricornutum
+Eukaryota_ileS_224	Eukaryota	NA	NA	4899.EPX74150	NA	NA	NA	Schizosaccharomyces octosporus
+Eukaryota_ileS_225	Eukaryota	NA	NA	101162.XP_007690027.1	NA	NA	NA	Bipolaris oryzae
+Eukaryota_ileS_226	Eukaryota	NA	NA	4909.A0A099P7G1	NA	NA	NA	Pichia kudriavzevii
+Eukaryota_ileS_227	Eukaryota	NA	NA	70448.Q01EL4	NA	NA	NA	Ostreococcus tauri
+Eukaryota_ileS_228	Eukaryota	NA	NA	37682.EMT02045	NA	NA	NA	Aegilops tauschii
+Eukaryota_ileS_229	Eukaryota	NA	NA	588596.U9V0W0	NA	NA	NA	Rhizophagus irregularis
+Eukaryota_ileS_230	Eukaryota	NA	NA	4920.XP_004203209.1	NA	NA	NA	Millerozyma farinosa
+Eukaryota_ileS_231	Eukaryota	NA	NA	4920.XP_004203790.1	NA	NA	NA	Millerozyma farinosa
+Eukaryota_ileS_232	Eukaryota	NA	NA	4922.CAY71970	NA	NA	NA	Komagataella pastoris
+Eukaryota_ileS_233	Eukaryota	NA	NA	4924.XP_001384414.1	NA	NA	NA	Scheffersomyces stipitis
+Eukaryota_ileS_234	Eukaryota	NA	NA	2880.D7FTL9	NA	NA	NA	Ectocarpus siliculosus
+Eukaryota_ileS_235	Eukaryota	NA	NA	4929.XP_001486386.1	NA	NA	NA	Meyerozyma guilliermondii
+Eukaryota_ileS_236	Eukaryota	NA	NA	4932.YBL076C	NA	NA	NA	Saccharomyces cerevisiae
+Eukaryota_ileS_237	Eukaryota	NA	NA	144197.XP_008280306.1	NA	NA	NA	Stegastes partitus
+Eukaryota_ileS_238	Eukaryota	NA	NA	9031.ENSGALP00000007672	NA	NA	NA	Gallus gallus
+Eukaryota_ileS_239	Eukaryota	NA	NA	97096.XP_007796723.1	NA	NA	NA	Eutypa lata
+Eukaryota_ileS_240	Eukaryota	NA	NA	97096.XP_007789682.1	NA	NA	NA	Eutypa lata
+Eukaryota_ileS_241	Eukaryota	NA	NA	885580.XP_010608888.1	NA	NA	NA	Fukomys damarensis
+Eukaryota_ileS_242	Eukaryota	NA	NA	140110.NechaP40160	NA	NA	NA	Nectria haematococca
+Eukaryota_ileS_243	Eukaryota	NA	NA	148304.MAPG_00658T0	NA	NA	NA	Magnaporthiopsis poae
+Eukaryota_ileS_244	Eukaryota	NA	NA	4950.XP_003680249.1	NA	NA	NA	Torulaspora delbrueckii
+Eukaryota_ileS_245	Eukaryota	NA	NA	2903.EOD13546	NA	NA	NA	Emiliania huxleyi
+Eukaryota_ileS_246	Eukaryota	NA	NA	2903.EOD21925	NA	NA	NA	Emiliania huxleyi
+Eukaryota_ileS_247	Eukaryota	NA	NA	4952.CAG83529	NA	NA	NA	Yarrowia lipolytica
+Eukaryota_ileS_248	Eukaryota	NA	NA	1182553.XP_007747980.1	NA	NA	NA	Cladophialophora psammophila
+Eukaryota_ileS_249	Eukaryota	NA	NA	4956.XP_002495107.1	NA	NA	NA	Zygosaccharomyces rouxii
+Eukaryota_ileS_250	Eukaryota	NA	NA	10042.XP_006992331.1	NA	NA	NA	Peromyscus maniculatus
+Eukaryota_ileS_251	Eukaryota	NA	NA	4959.XP_456601.1	NA	NA	NA	Debaryomyces hansenii
+Eukaryota_ileS_252	Eukaryota	NA	NA	38033.XP_001226341.1	NA	NA	NA	Chaetomium globosum
+Eukaryota_ileS_253	Eukaryota	NA	NA	38033.XP_001225907.1	NA	NA	NA	Chaetomium globosum
+Eukaryota_ileS_254	Eukaryota	NA	NA	64363.EME46071	NA	NA	NA	Mycosphaerella pini
+Eukaryota_ileS_255	Eukaryota	NA	NA	72558.CBQ72357	NA	NA	NA	Sporisorium reilianum
+Eukaryota_ileS_256	Eukaryota	NA	NA	1108849.XP_002561511.1	NA	NA	NA	Penicillium rubens
+Eukaryota_ileS_257	Eukaryota	NA	NA	7029.ACYPI006430-PA	NA	NA	NA	Acyrthosiphon pisum
+Eukaryota_ileS_258	Eukaryota	NA	NA	181119.XP_005531879.1	NA	NA	NA	Pseudopodoces humilis
+Eukaryota_ileS_259	Eukaryota	NA	NA	36331.EPrPI00000022835	NA	NA	NA	Pythium irregulare
+Eukaryota_ileS_260	Eukaryota	NA	NA	35720.XP_003657394.1	NA	NA	NA	Thielavia terrestris
+Eukaryota_ileS_261	Eukaryota	NA	NA	35720.XP_003652769.1	NA	NA	NA	Thielavia terrestris
+Eukaryota_ileS_262	Eukaryota	NA	NA	35725.K2RZN2	NA	NA	NA	Macrophomina phaseolina
+Eukaryota_ileS_263	Eukaryota	NA	NA	41875.XP_007509126.1	NA	NA	NA	Bathycoccus prasinos
+Eukaryota_ileS_264	Eukaryota	NA	NA	430998.XP_007671985.1	NA	NA	NA	Baudoinia compniacensis
+Eukaryota_ileS_265	Eukaryota	NA	NA	5016.M2TVF0	NA	NA	NA	Bipolaris maydis
+Eukaryota_ileS_266	Eukaryota	NA	NA	5017.XP_007716060.1	NA	NA	NA	Bipolaris zeicola
+Eukaryota_ileS_267	Eukaryota	NA	NA	1026970.XP_008829175.1	NA	NA	NA	Nannospalax galili
+Eukaryota_ileS_268	Eukaryota	NA	NA	1026970.XP_008852820.1	NA	NA	NA	Nannospalax galili
+Eukaryota_ileS_269	Eukaryota	NA	NA	5022.CBY00627	NA	NA	NA	Leptosphaeria maculans
+Eukaryota_ileS_270	Eukaryota	NA	NA	121759.XP_010756529.1	NA	NA	NA	Paracoccidioides brasiliensis
+Eukaryota_ileS_271	Eukaryota	NA	NA	109478.XP_005881716.1	NA	NA	NA	Myotis brandtii
+Eukaryota_ileS_272	Eukaryota	NA	NA	5037.XP_001539089.1	NA	NA	NA	Histoplasma capsulatum
+Eukaryota_ileS_273	Eukaryota	NA	NA	5039.XP_002626819.1	NA	NA	NA	Blastomyces dermatitidis
+Eukaryota_ileS_274	Eukaryota	NA	NA	7091.BGIBMGA001558-TA	NA	NA	NA	Bombyx mori
+Eukaryota_ileS_275	Eukaryota	NA	NA	588726.J7S3E5	NA	NA	NA	Kazachstania naganishii
+Eukaryota_ileS_276	Eukaryota	NA	NA	13249.RPRC006561-PA	NA	NA	NA	Rhodnius prolixus
+Eukaryota_ileS_277	Eukaryota	NA	NA	5059.CADAFLAP00003656	NA	NA	NA	Aspergillus flavus
+Eukaryota_ileS_278	Eukaryota	NA	NA	5061.CADANGAP00006870	NA	NA	NA	Aspergillus niger
+Eukaryota_ileS_279	Eukaryota	NA	NA	5062.CADAORAP00005962	NA	NA	NA	Aspergillus oryzae
+Eukaryota_ileS_280	Eukaryota	NA	NA	113608.XP_003685611.1	NA	NA	NA	Tetrapisispora phaffii
+Eukaryota_ileS_281	Eukaryota	NA	NA	39416.CAZ81653	NA	NA	NA	Tuber melanosporum
+Eukaryota_ileS_282	Eukaryota	NA	NA	72658.Bostr.29044s0076.1.p	NA	NA	NA	Boechera stricta
+Eukaryota_ileS_283	Eukaryota	NA	NA	72658.Bostr.25463s0286.1.p	NA	NA	NA	Boechera stricta
+Eukaryota_ileS_284	Eukaryota	NA	NA	72664.XP_006405305.1	NA	NA	NA	Eutrema salsugineum
+Eukaryota_ileS_285	Eukaryota	NA	NA	273371.XP_003870611.1	NA	NA	NA	Candida orthopsilosis
+Eukaryota_ileS_286	Eukaryota	NA	NA	1051613.XP_003008697.1	NA	NA	NA	Verticillium alfalfae
+Eukaryota_ileS_287	Eukaryota	NA	NA	3055.EDO99518	NA	NA	NA	Chlamydomonas reinhardtii
+Eukaryota_ileS_288	Eukaryota	NA	NA	80884.CCF33328	NA	NA	NA	Colletotrichum higginsianum
+Eukaryota_ileS_289	Eukaryota	NA	NA	80884.CCF33329	NA	NA	NA	Colletotrichum higginsianum
+Eukaryota_ileS_290	Eukaryota	NA	NA	80884.CCF45767	NA	NA	NA	Colletotrichum higginsianum
+Eukaryota_ileS_291	Eukaryota	NA	NA	7159.AAEL000388-PA	NA	NA	NA	Aedes aegypti
+Eukaryota_ileS_292	Eukaryota	NA	NA	3067.XP_002952265.1	NA	NA	NA	Volvox carteri
+Eukaryota_ileS_293	Eukaryota	NA	NA	7165.AGAP002101-PA	NA	NA	NA	Anopheles gambiae
+Eukaryota_ileS_294	Eukaryota	NA	NA	3075.A0A087SID6	NA	NA	NA	Auxenochlorella protothecoides
+Eukaryota_ileS_295	Eukaryota	NA	NA	99158.XP_008886926.1	NA	NA	NA	Hammondia hammondi
+Eukaryota_ileS_296	Eukaryota	NA	NA	5127.CCT71437	NA	NA	NA	Fusarium fujikuroi
+Eukaryota_ileS_297	Eukaryota	NA	NA	7176.CPIJ009573-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_298	Eukaryota	NA	NA	7176.CPIJ015593-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_299	Eukaryota	NA	NA	7176.CPIJ018349-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_300	Eukaryota	NA	NA	7176.CPIJ019889-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_301	Eukaryota	NA	NA	7176.CPIJ009861-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_302	Eukaryota	NA	NA	7176.CPIJ016068-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_303	Eukaryota	NA	NA	7176.CPIJ020286-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_304	Eukaryota	NA	NA	7176.CPIJ016242-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_305	Eukaryota	NA	NA	7176.CPIJ004769-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_306	Eukaryota	NA	NA	7176.CPIJ010522-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_307	Eukaryota	NA	NA	7176.CPIJ016331-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_308	Eukaryota	NA	NA	7176.CPIJ005650-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_309	Eukaryota	NA	NA	7176.CPIJ004669-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_310	Eukaryota	NA	NA	7176.CPIJ016249-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_311	Eukaryota	NA	NA	7176.CPIJ013071-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_312	Eukaryota	NA	NA	7176.CPIJ014575-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_313	Eukaryota	NA	NA	7176.CPIJ018728-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_314	Eukaryota	NA	NA	7176.CPIJ016361-PA	NA	NA	NA	Culex quinquefasciatus
+Eukaryota_ileS_315	Eukaryota	NA	NA	132113.XP_003491249.1	NA	NA	NA	Bombus impatiens
+Eukaryota_ileS_316	Eukaryota	NA	NA	13333.ERN15369	NA	NA	NA	Amborella trichopoda
+Eukaryota_ileS_317	Eukaryota	NA	NA	44056.XP_009041958.1	NA	NA	NA	Aureococcus anophagefferens
+Eukaryota_ileS_318	Eukaryota	NA	NA	5145.XP_001909927.1	NA	NA	NA	Podospora anserina
+Eukaryota_ileS_319	Eukaryota	NA	NA	5147.XP_003352371.1	NA	NA	NA	Sordaria macrospora
+Eukaryota_ileS_320	Eukaryota	NA	NA	27679.XP_010347131.1	NA	NA	NA	Saimiri boliviensis
+Eukaryota_ileS_321	Eukaryota	NA	NA	130081.XP_005705297.1	NA	NA	NA	Galdieria sulphuraria
+Eukaryota_ileS_322	Eukaryota	NA	NA	29730.Gorai.002G267700.1	NA	NA	NA	Gossypium raimondii
+Eukaryota_ileS_323	Eukaryota	NA	NA	29730.Gorai.006G186200.1	NA	NA	NA	Gossypium raimondii
+Eukaryota_ileS_324	Eukaryota	NA	NA	13349.G1XLX5	NA	NA	NA	Arthrobotrys oligospora
+Eukaryota_ileS_325	Eukaryota	NA	NA	7209.EFO27534.1	NA	NA	NA	Loa loa
+Eukaryota_ileS_326	Eukaryota	NA	NA	9258.ENSOANP00000000224	NA	NA	NA	Ornithorhynchus anatinus
+Eukaryota_ileS_327	Eukaryota	NA	NA	9258.ENSOANP00000026085	NA	NA	NA	Ornithorhynchus anatinus
+Eukaryota_ileS_328	Eukaryota	NA	NA	7213.XP_004524919.1	NA	NA	NA	Ceratitis capitata
+Eukaryota_ileS_329	Eukaryota	NA	NA	7217.FBpp0114167	NA	NA	NA	Drosophila ananassae
+Eukaryota_ileS_330	Eukaryota	NA	NA	78898.MVEG_02464T0	NA	NA	NA	Mortierella verticillata
+Eukaryota_ileS_331	Eukaryota	NA	NA	29875.EHK26686	NA	NA	NA	Trichoderma virens
+Eukaryota_ileS_332	Eukaryota	NA	NA	7220.FBpp0134798	NA	NA	NA	Drosophila erecta
+Eukaryota_ileS_333	Eukaryota	NA	NA	7222.FBpp0150596	NA	NA	NA	Drosophila grimshawi
+Eukaryota_ileS_334	Eukaryota	NA	NA	7227.FBpp0078150	NA	NA	NA	Drosophila melanogaster
+Eukaryota_ileS_335	Eukaryota	NA	NA	5180.EDN98673	NA	NA	NA	Sclerotinia sclerotiorum
+Eukaryota_ileS_336	Eukaryota	NA	NA	7230.FBpp0160593	NA	NA	NA	Drosophila mojavensis
+Eukaryota_ileS_337	Eukaryota	NA	NA	29760.VIT_05s0102g00100.t01	NA	NA	NA	Vitis vinifera
+Eukaryota_ileS_338	Eukaryota	NA	NA	7234.FBpp0180321	NA	NA	NA	Drosophila persimilis
+Eukaryota_ileS_339	Eukaryota	NA	NA	7237.FBpp0286566	NA	NA	NA	Drosophila pseudoobscura
+Eukaryota_ileS_340	Eukaryota	NA	NA	7244.FBpp0226047	NA	NA	NA	Drosophila virilis
+Eukaryota_ileS_341	Eukaryota	NA	NA	7245.FBpp0267621	NA	NA	NA	Drosophila yakuba
+Eukaryota_ileS_342	Eukaryota	NA	NA	554065.XP_005851424.1	NA	NA	NA	Chlorella variabilis
+Eukaryota_ileS_343	Eukaryota	NA	NA	42068.L0PBQ6	NA	NA	NA	Pneumocystis jirovecii
+Eukaryota_ileS_344	Eukaryota	NA	NA	281687.CJA19883a	NA	NA	NA	Caenorhabditis japonica
+Eukaryota_ileS_345	Eukaryota	NA	NA	281687.CJA16530	NA	NA	NA	Caenorhabditis japonica
+Eukaryota_ileS_346	Eukaryota	NA	NA	281687.CJA20985	NA	NA	NA	Caenorhabditis japonica
+Eukaryota_ileS_347	Eukaryota	NA	NA	9305.ENSSHAP00000000272	NA	NA	NA	Sarcophilus harrisii
+Eukaryota_ileS_348	Eukaryota	NA	NA	7260.FBpp0245200	NA	NA	NA	Drosophila willistoni
+Eukaryota_ileS_349	Eukaryota	NA	NA	5217.XP_007003365.1	NA	NA	NA	Tremella mesenterica
+Eukaryota_ileS_350	Eukaryota	NA	NA	9315.ENSMEUP00000010656	NA	NA	NA	Macropus eugenii
+Eukaryota_ileS_351	Eukaryota	NA	NA	185453.XP_006876825.1	NA	NA	NA	Chrysochloris asiatica
+Eukaryota_ileS_352	Eukaryota	NA	NA	42099.EPrPV00000014219	NA	NA	NA	Pythium vexans
+Eukaryota_ileS_353	Eukaryota	NA	NA	31870.EFQ32152	NA	NA	NA	Colletotrichum graminicola
+Eukaryota_ileS_354	Eukaryota	NA	NA	203908.EGG10526	NA	NA	NA	Melampsora larici-populina
+Eukaryota_ileS_355	Eukaryota	NA	NA	9361.ENSDNOP00000015331	NA	NA	NA	Dasypus novemcinctus
+Eukaryota_ileS_356	Eukaryota	NA	NA	3218.PP1S64_89V6.1	NA	NA	NA	Physcomitrella patens
+Eukaryota_ileS_357	Eukaryota	NA	NA	3218.PP1S197_25V6.1	NA	NA	NA	Physcomitrella patens
+Eukaryota_ileS_358	Eukaryota	NA	NA	9365.XP_007529250.1	NA	NA	NA	Erinaceus europaeus
+Eukaryota_ileS_359	Eukaryota	NA	NA	5270.UM05160P0	NA	NA	NA	Ustilago maydis
+Eukaryota_ileS_360	Eukaryota	NA	NA	29850.GGTG_11292T0	NA	NA	NA	Gaeumannomyces graminis
+Eukaryota_ileS_361	Eukaryota	NA	NA	9371.XP_004714660.1	NA	NA	NA	Echinops telfairi
+Eukaryota_ileS_362	Eukaryota	NA	NA	5286.M7X6U6	NA	NA	NA	Rhodosporidium toruloides
+Eukaryota_ileS_363	Eukaryota	NA	NA	5297.GMQ_25876T0	NA	NA	NA	Puccinia graminis
+Eukaryota_ileS_364	Eukaryota	NA	NA	5297.GMQ_10275T0	NA	NA	NA	Puccinia graminis
+Eukaryota_ileS_365	Eukaryota	NA	NA	337075.U4LBU8	NA	NA	NA	Pyronema omphalodes
+Eukaryota_ileS_366	Eukaryota	NA	NA	310453.XP_007582528.1	NA	NA	NA	Neofusicoccum parvum
+Eukaryota_ileS_367	Eukaryota	NA	NA	9402.XP_006922854.1	NA	NA	NA	Pteropus alecto
+Eukaryota_ileS_368	Eukaryota	NA	NA	40127.XP_009852665.1	NA	NA	NA	Neurospora tetrasperma
+Eukaryota_ileS_369	Eukaryota	NA	NA	109760.SPPG_01024T0	NA	NA	NA	Spizellomyces punctatus
+Eukaryota_ileS_370	Eukaryota	NA	NA	36033.XP_001647423.1	NA	NA	NA	Vanderwaltozyma polyspora
+Eukaryota_ileS_371	Eukaryota	NA	NA	1041607.K0KTX2	NA	NA	NA	Wickerhamomyces ciferrii
+Eukaryota_ileS_372	Eukaryota	NA	NA	7370.XP_005183293.1	NA	NA	NA	Musca domestica
+Eukaryota_ileS_373	Eukaryota	NA	NA	120017.I2FRR9	NA	NA	NA	Ustilago hordei
+Eukaryota_ileS_374	Eukaryota	NA	NA	29908.U7Q2H8	NA	NA	NA	Sporothrix schenckii
+Eukaryota_ileS_375	Eukaryota	NA	NA	29908.U7PWX3	NA	NA	NA	Sporothrix schenckii
+Eukaryota_ileS_376	Eukaryota	NA	NA	40149.OMERI02G15490.2	NA	NA	NA	Oryza meridionalis
+Eukaryota_ileS_377	Eukaryota	NA	NA	40149.OMERI02G07160.1	NA	NA	NA	Oryza meridionalis
+Eukaryota_ileS_378	Eukaryota	NA	NA	40149.OMERI06G20980.1	NA	NA	NA	Oryza meridionalis
+Eukaryota_ileS_379	Eukaryota	NA	NA	5334.XP_003030015.1	NA	NA	NA	Schizophyllum commune
+Eukaryota_ileS_380	Eukaryota	NA	NA	5341.XP_007328301.1	NA	NA	NA	Agaricus bisporus
+Eukaryota_ileS_381	Eukaryota	NA	NA	61622.XP_010373396.1	NA	NA	NA	Rhinopithecus roxellana
+Eukaryota_ileS_382	Eukaryota	NA	NA	5346.XP_001830692.2	NA	NA	NA	Coprinopsis cinerea
+Eukaryota_ileS_383	Eukaryota	NA	NA	482537.XP_008587564.1	NA	NA	NA	Galeopterus variegatus
+Eukaryota_ileS_384	Eukaryota	NA	NA	5671.XP_001469945.1	NA	NA	NA	Leishmania infantum
+Eukaryota_ileS_385	Eukaryota	NA	NA	36080.S2JP01	NA	NA	NA	Mucor circinelloides
+Eukaryota_ileS_386	Eukaryota	NA	NA	40148.OGLUM02G06330.1	NA	NA	NA	Oryza glumipatula
+Eukaryota_ileS_387	Eukaryota	NA	NA	40148.OGLUM06G23890.3	NA	NA	NA	Oryza glumipatula
+Eukaryota_ileS_388	Eukaryota	NA	NA	7425.NV14307-PA	NA	NA	NA	Nasonia vitripennis
+Eukaryota_ileS_389	Eukaryota	NA	NA	9478.XP_008061016.1	NA	NA	NA	Tarsius syrichta
+Eukaryota_ileS_390	Eukaryota	NA	NA	9483.ENSCJAP00000002861	NA	NA	NA	Callithrix jacchus
+Eukaryota_ileS_391	Eukaryota	NA	NA	9483.ENSCJAP00000038053	NA	NA	NA	Callithrix jacchus
+Eukaryota_ileS_392	Eukaryota	NA	NA	42254.XP_004620184.1	NA	NA	NA	Sorex araneus
+Eukaryota_ileS_393	Eukaryota	NA	NA	42254.XP_004622416.1	NA	NA	NA	Sorex araneus
+Eukaryota_ileS_394	Eukaryota	NA	NA	27923.ML001125a-PA	NA	NA	NA	Mnemiopsis leidyi
+Eukaryota_ileS_395	Eukaryota	NA	NA	27923.ML001124a-PA	NA	NA	NA	Mnemiopsis leidyi
+Eukaryota_ileS_396	Eukaryota	NA	NA	68886.XP_009690324.1	NA	NA	NA	Theileria orientalis
+Eukaryota_ileS_397	Eukaryota	NA	NA	65071.PYU1_T002204	NA	NA	NA	Pythium ultimum
+Eukaryota_ileS_398	Eukaryota	NA	NA	7460.GB53173-PA	NA	NA	NA	Apis mellifera
+Eukaryota_ileS_399	Eukaryota	NA	NA	60711.ENSCSAP00000003510	NA	NA	NA	Chlorocebus sabaeus
+Eukaryota_ileS_400	Eukaryota	NA	NA	400682.PAC_15721659	NA	NA	NA	Amphimedon queenslandica
+Eukaryota_ileS_401	Eukaryota	NA	NA	400682.PAC_15709637	NA	NA	NA	Amphimedon queenslandica
+Eukaryota_ileS_402	Eukaryota	NA	NA	400682.PAC_15699230	NA	NA	NA	Amphimedon queenslandica
+Eukaryota_ileS_403	Eukaryota	NA	NA	400682.PAC_15701888	NA	NA	NA	Amphimedon queenslandica
+Eukaryota_ileS_404	Eukaryota	NA	NA	109871.XP_006676237.1	NA	NA	NA	Batrachochytrium dendrobatidis
+Eukaryota_ileS_405	Eukaryota	NA	NA	13616.ENSMODP00000026103	NA	NA	NA	Monodelphis domestica
+Eukaryota_ileS_406	Eukaryota	NA	NA	9541.XP_005582300.1	NA	NA	NA	Macaca fascicularis
+Eukaryota_ileS_407	Eukaryota	NA	NA	9544.ENSMMUP00000006157	NA	NA	NA	Macaca mulatta
+Eukaryota_ileS_408	Eukaryota	NA	NA	9555.ENSPANP00000019407	NA	NA	NA	Papio anubis
+Eukaryota_ileS_409	Eukaryota	NA	NA	9785.ENSLAFP00000010876	NA	NA	NA	Loxodonta africana
+Eukaryota_ileS_410	Eukaryota	NA	NA	5465.ENH87515	NA	NA	NA	Colletotrichum orbiculare
+Eukaryota_ileS_411	Eukaryota	NA	NA	5691.EAN78315	NA	NA	NA	Trypanosoma brucei
+Eukaryota_ileS_412	Eukaryota	NA	NA	5476.C4YS70	NA	NA	NA	Candida albicans
+Eukaryota_ileS_413	Eukaryota	NA	NA	5478.XP_446507.1	NA	NA	NA	Candida glabrata
+Eukaryota_ileS_414	Eukaryota	NA	NA	5479.M3HL44	NA	NA	NA	Candida maltosa
+Eukaryota_ileS_415	Eukaryota	NA	NA	5480.G8B545	NA	NA	NA	Candida parapsilosis
+Eukaryota_ileS_416	Eukaryota	NA	NA	42345.XP_008793645.1	NA	NA	NA	Phoenix dactylifera
+Eukaryota_ileS_417	Eukaryota	NA	NA	42345.XP_008776999.1	NA	NA	NA	Phoenix dactylifera
+Eukaryota_ileS_418	Eukaryota	NA	NA	5482.XP_002551459.1	NA	NA	NA	Candida tropicalis
+Eukaryota_ileS_419	Eukaryota	NA	NA	318829.MGG_10205T0	NA	NA	NA	Magnaporthe oryzae
+Eukaryota_ileS_420	Eukaryota	NA	NA	318829.MGG_03220T0	NA	NA	NA	Magnaporthe oryzae
+Eukaryota_ileS_421	Eukaryota	NA	NA	5011.R4XF67	NA	NA	NA	Taphrina deformans
+Eukaryota_ileS_422	Eukaryota	NA	NA	13684.SNOT_11841	NA	NA	NA	Parastagonospora nodorum
+Eukaryota_ileS_423	Eukaryota	NA	NA	89462.XP_006063155.1	NA	NA	NA	Bubalus bubalis
+Eukaryota_ileS_424	Eukaryota	NA	NA	9593.ENSGGOP00000009988	NA	NA	NA	Gorilla gorilla
+Eukaryota_ileS_425	Eukaryota	NA	NA	176946.XP_007444478.1	NA	NA	NA	Python bivittatus
+Eukaryota_ileS_426	Eukaryota	NA	NA	176946.XP_007440624.1	NA	NA	NA	Python bivittatus
+Eukaryota_ileS_427	Eukaryota	NA	NA	5501.XP_001243953.1	NA	NA	NA	Coccidioides immitis
+Eukaryota_ileS_428	Eukaryota	NA	NA	9598.ENSPTRP00000049231	NA	NA	NA	Pan troglodytes
+Eukaryota_ileS_429	Eukaryota	NA	NA	9601.ENSPPYP00000021711	NA	NA	NA	Pongo abelii
+Eukaryota_ileS_430	Eukaryota	NA	NA	5507.FOXG_12644P0	NA	NA	NA	Fusarium oxysporum
+Eukaryota_ileS_431	Eukaryota	NA	NA	128390.XP_009474987.1	NA	NA	NA	Nipponia nippon
+Eukaryota_ileS_432	Eukaryota	NA	NA	9612.ENSCAFP00000003387	NA	NA	NA	Canis lupus
+Eukaryota_ileS_433	Eukaryota	NA	NA	5518.FGSG_10722P0	NA	NA	NA	Fusarium graminearum
+Eukaryota_ileS_434	Eukaryota	NA	NA	157072.XP_008878994.1	NA	NA	NA	Aphanomyces invadans
+Eukaryota_ileS_435	Eukaryota	NA	NA	529818.AMSG_05297T0	NA	NA	NA	Thecamonas trahens
+Eukaryota_ileS_436	Eukaryota	NA	NA	52644.XP_010582766.1	NA	NA	NA	Haliaeetus leucocephalus
+Eukaryota_ileS_437	Eukaryota	NA	NA	13735.ENSPSIP00000012599	NA	NA	NA	Pelodiscus sinensis
+Eukaryota_ileS_438	Eukaryota	NA	NA	93612.XP_008022135.1	NA	NA	NA	Setosphaeria turcica
+Eukaryota_ileS_439	Eukaryota	NA	NA	9646.ENSAMEP00000014191	NA	NA	NA	Ailuropoda melanoleuca
+Eukaryota_ileS_440	Eukaryota	NA	NA	5551.XP_003236027.1	NA	NA	NA	Trichophyton rubrum
+Eukaryota_ileS_441	Eukaryota	NA	NA	7070.TC010772-PA	NA	NA	NA	Tribolium castaneum
+Eukaryota_ileS_442	Eukaryota	NA	NA	245174.XP_009269055.1	NA	NA	NA	Wallemia ichthyophaga
+Eukaryota_ileS_443	Eukaryota	NA	NA	40384.G7XNP1	NA	NA	NA	Aspergillus kawachii
+Eukaryota_ileS_444	Eukaryota	NA	NA	9668.ENSMPUP00000004795	NA	NA	NA	Mustela putorius
+Eukaryota_ileS_445	Eukaryota	NA	NA	9685.ENSFCAP00000000758	NA	NA	NA	Felis catus
+Eukaryota_ileS_446	Eukaryota	NA	NA	101852.XP_008086929.1	NA	NA	NA	Glarea lozoyensis
+Eukaryota_ileS_447	Eukaryota	NA	NA	9694.XP_007097399.1	NA	NA	NA	Panthera tigris
+Eukaryota_ileS_448	Eukaryota	NA	NA	148960.XP_006959650.1	NA	NA	NA	Wallemia sebi
+Eukaryota_ileS_449	Eukaryota	NA	NA	112098.XP_008606912.1	NA	NA	NA	Saprolegnia diclina
+Eukaryota_ileS_450	Eukaryota	NA	NA	71139.XP_010069316.1	NA	NA	NA	Eucalyptus grandis
+Eukaryota_ileS_451	Eukaryota	NA	NA	248742.XP_005646812.1	NA	NA	NA	Coccomyxa subellipsoidea
+Eukaryota_ileS_452	Eukaryota	NA	NA	9707.XP_004393638.1	NA	NA	NA	Odobenus rosmarus
+Eukaryota_ileS_453	Eukaryota	NA	NA	51453.EGR45806	NA	NA	NA	Trichoderma reesei
+Eukaryota_ileS_454	Eukaryota	NA	NA	9713.XP_006742560.1	NA	NA	NA	Leptonychotes weddellii
+Eukaryota_ileS_455	Eukaryota	NA	NA	7668.SPU_021302-tr	NA	NA	NA	Strongylocentrotus purpuratus
+Eukaryota_ileS_456	Eukaryota	NA	NA	7668.SPU_008455-tr	NA	NA	NA	Strongylocentrotus purpuratus
+Eukaryota_ileS_457	Eukaryota	NA	NA	9733.XP_004284173.1	NA	NA	NA	Orcinus orca
+Eukaryota_ileS_458	Eukaryota	NA	NA	32264.tetur210g00020.1	NA	NA	NA	Tetranychus urticae
+Eukaryota_ileS_459	Eukaryota	NA	NA	32264.tetur22g00070.1	NA	NA	NA	Tetranychus urticae
+Eukaryota_ileS_460	Eukaryota	NA	NA	32264.tetur210g00010.1	NA	NA	NA	Tetranychus urticae
+Eukaryota_ileS_461	Eukaryota	NA	NA	32264.tetur05g00130.1	NA	NA	NA	Tetranychus urticae
+Eukaryota_ileS_462	Eukaryota	NA	NA	9739.XP_004326553.1	NA	NA	NA	Tursiops truncatus
+Eukaryota_ileS_463	Eukaryota	NA	NA	552467.XP_003192031.1	NA	NA	NA	Cryptococcus gattii
+Eukaryota_ileS_464	Eukaryota	NA	NA	5722.XP_001309389.1	NA	NA	NA	Trichomonas vaginalis
+Eukaryota_ileS_465	Eukaryota	NA	NA	5664.LmjF.36.5620	NA	NA	NA	Leishmania major
+Eukaryota_ileS_466	Eukaryota	NA	NA	10160.XP_004638729.1	NA	NA	NA	Octodon degus
+Eukaryota_ileS_467	Eukaryota	NA	NA	40483.S8DYD4	NA	NA	NA	Fomitopsis pinicola
+Eukaryota_ileS_468	Eukaryota	NA	NA	7719.XP_009858739.1	NA	NA	NA	Ciona intestinalis
+Eukaryota_ileS_469	Eukaryota	NA	NA	40492.XP_007307949.1	NA	NA	NA	Stereum hirsutum
+Eukaryota_ileS_470	Eukaryota	NA	NA	34349.G7E3H5	NA	NA	NA	Mixia osmundae
+Eukaryota_ileS_471	Eukaryota	NA	NA	5679.XP_010703506.1	NA	NA	NA	Leishmania panamensis
+Eukaryota_ileS_472	Eukaryota	NA	NA	9778.XP_004384272.1	NA	NA	NA	Trichechus manatus
+Eukaryota_ileS_473	Eukaryota	NA	NA	3641.EOY07019	NA	NA	NA	Theobroma cacao
+Eukaryota_ileS_474	Eukaryota	NA	NA	48698.ENSPFOP00000011875	NA	NA	NA	Poecilia formosa
+Eukaryota_ileS_475	Eukaryota	NA	NA	7739.XP_002591512.1	NA	NA	NA	Branchiostoma floridae
+Eukaryota_ileS_476	Eukaryota	NA	NA	7739.XP_002586027.1	NA	NA	NA	Branchiostoma floridae
+Eukaryota_ileS_477	Eukaryota	NA	NA	5693.XP_813858.1	NA	NA	NA	Trypanosoma cruzi
+Eukaryota_ileS_478	Eukaryota	NA	NA	5693.XP_808554.1	NA	NA	NA	Trypanosoma cruzi
+Eukaryota_ileS_479	Eukaryota	NA	NA	3649.evm.model.supercontig_32.3	NA	NA	NA	Carica papaya
+Eukaryota_ileS_480	Eukaryota	NA	NA	3649.evm.model.supercontig_32.1	NA	NA	NA	Carica papaya
+Eukaryota_ileS_481	Eukaryota	NA	NA	3649.evm.TU.contig_44292.1	NA	NA	NA	Carica papaya
+Eukaryota_ileS_482	Eukaryota	NA	NA	34373.CCU74237	NA	NA	NA	Blumeria graminis
+Eukaryota_ileS_483	Eukaryota	NA	NA	3656.XP_008453992.1	NA	NA	NA	Cucumis melo
+Eukaryota_ileS_484	Eukaryota	NA	NA	3659.XP_004152106.1	NA	NA	NA	Cucumis sativus
+Eukaryota_ileS_485	Eukaryota	NA	NA	3659.XP_004173182.1	NA	NA	NA	Cucumis sativus
+Eukaryota_ileS_486	Eukaryota	NA	NA	3659.XP_004156990.1	NA	NA	NA	Cucumis sativus
+Eukaryota_ileS_487	Eukaryota	NA	NA	226899.F0XTC7	NA	NA	NA	Grosmannia clavigera
+Eukaryota_ileS_488	Eukaryota	NA	NA	46681.XP_001738527.1	NA	NA	NA	Entamoeba dispar
+Eukaryota_ileS_489	Eukaryota	NA	NA	9818.XP_007951194.1	NA	NA	NA	Orycteropus afer
+Eukaryota_ileS_490	Eukaryota	NA	NA	9823.ENSSSCP00000021154	NA	NA	NA	Sus scrofa
+Eukaryota_ileS_491	Eukaryota	NA	NA	9823.ENSSSCP00000024614	NA	NA	NA	Sus scrofa
+Eukaryota_ileS_492	Eukaryota	NA	NA	9823.ENSSSCP00000008617	NA	NA	NA	Sus scrofa
+Eukaryota_ileS_493	Eukaryota	NA	NA	710243.XP_007591618.1	NA	NA	NA	Colletotrichum fioriniae
+Eukaryota_ileS_494	Eukaryota	NA	NA	5741.EDO77544	NA	NA	NA	Giardia intestinalis
+Eukaryota_ileS_495	Eukaryota	NA	NA	3694.POPTR_0017s06170.1	NA	NA	NA	Populus trichocarpa
+Eukaryota_ileS_496	Eukaryota	NA	NA	3694.POPTR_0007s02170.1	NA	NA	NA	Populus trichocarpa
+Eukaryota_ileS_497	Eukaryota	NA	NA	40559.M7TR74	NA	NA	NA	Botrytis cinerea
+Eukaryota_ileS_498	Eukaryota	NA	NA	1392244.V5EDD6	NA	NA	NA	Pseudozyma brasiliensis
+Eukaryota_ileS_499	Eukaryota	NA	NA	3702.AT3G23145.1	NA	NA	NA	Arabidopsis thaliana
+Eukaryota_ileS_500	Eukaryota	NA	NA	3702.AT4G10320.1	NA	NA	NA	Arabidopsis thaliana
+Eukaryota_ileS_501	Eukaryota	NA	NA	5759.rna_EHI_177660-1	NA	NA	NA	Entamoeba histolytica
+Eukaryota_ileS_502	Eukaryota	NA	NA	3712.Bo4g142620.1	NA	NA	NA	Brassica oleracea
+Eukaryota_ileS_503	Eukaryota	NA	NA	3712.Bo6g027950.1	NA	NA	NA	Brassica oleracea
+Eukaryota_ileS_504	Eukaryota	NA	NA	3712.Bo7g107870.1	NA	NA	NA	Brassica oleracea
+Eukaryota_ileS_505	Eukaryota	NA	NA	3712.Bo2g080390.1	NA	NA	NA	Brassica oleracea
+Eukaryota_ileS_506	Eukaryota	NA	NA	5762.XP_002679956.1	NA	NA	NA	Naegleria gruberi
+Eukaryota_ileS_507	Eukaryota	NA	NA	5762.XP_002672392.1	NA	NA	NA	Naegleria gruberi
+Eukaryota_ileS_508	Eukaryota	NA	NA	263815.XP_007874346.1	NA	NA	NA	Pneumocystis murina
+Eukaryota_ileS_509	Eukaryota	NA	NA	296587.XP_002507648.1	NA	NA	NA	Micromonas sp.
+Eukaryota_ileS_510	Eukaryota	NA	NA	44689.DDB0231258	NA	NA	NA	Dictyostelium discoideum
+Eukaryota_ileS_511	Eukaryota	NA	NA	5786.XP_003290535.1	NA	NA	NA	Dictyostelium purpureum
+Eukaryota_ileS_512	Eukaryota	NA	NA	3750.XP_008372051.1	NA	NA	NA	Malus domestica
+Eukaryota_ileS_513	Eukaryota	NA	NA	3750.XP_008379415.1	NA	NA	NA	Malus domestica
+Eukaryota_ileS_514	Eukaryota	NA	NA	691883.XP_009492189.1	NA	NA	NA	Fonticula alba
+Eukaryota_ileS_515	Eukaryota	NA	NA	69293.ENSGACP00000009432	NA	NA	NA	Gasterosteus aculeatus
+Eukaryota_ileS_516	Eukaryota	NA	NA	3760.EMJ26633	NA	NA	NA	Prunus persica
+Eukaryota_ileS_517	Eukaryota	NA	NA	85681.XP_006443086.1	NA	NA	NA	Citrus clementina
+Eukaryota_ileS_518	Eukaryota	NA	NA	5811.TGME49_007640	NA	NA	NA	Toxoplasma gondii
+Eukaryota_ileS_519	Eukaryota	NA	NA	9913.ENSBTAP00000001290	NA	NA	NA	Bos taurus
+Eukaryota_ileS_520	Eukaryota	NA	NA	5821.PBANKA_134770	NA	NA	NA	Plasmodium berghei
+Eukaryota_ileS_521	Eukaryota	NA	NA	5825.PCHAS_135230	NA	NA	NA	Plasmodium chabaudi
+Eukaryota_ileS_522	Eukaryota	NA	NA	5827.XP_004223679.1	NA	NA	NA	Plasmodium cynomolgi
+Eukaryota_ileS_523	Eukaryota	NA	NA	69319.XP_008555707.1	NA	NA	NA	Microplitis demolitor
+Eukaryota_ileS_524	Eukaryota	NA	NA	5833.PF13_0179	NA	NA	NA	Plasmodium falciparum
+Eukaryota_ileS_525	Eukaryota	NA	NA	34506.KOG0434.35	NA	NA	NA	Strongyloides ratti
+Eukaryota_ileS_526	Eukaryota	NA	NA	9940.ENSOARP00000008935	NA	NA	NA	Ovis aries
+Eukaryota_ileS_527	Eukaryota	NA	NA	28377.ENSACAP00000009337	NA	NA	NA	Anolis carolinensis
+Eukaryota_ileS_528	Eukaryota	NA	NA	5850.PKH_122000	NA	NA	NA	Plasmodium knowlesi
+Eukaryota_ileS_529	Eukaryota	NA	NA	102107.XP_008222579.1	NA	NA	NA	Prunus mume
+Eukaryota_ileS_530	Eukaryota	NA	NA	3885.XP_007131559.1	NA	NA	NA	Phaseolus vulgaris
+Eukaryota_ileS_531	Eukaryota	NA	NA	3885.XP_007132212.1	NA	NA	NA	Phaseolus vulgaris
+Eukaryota_ileS_532	Eukaryota	NA	NA	5855.PVX_082575	NA	NA	NA	Plasmodium vivax
+Eukaryota_ileS_533	Eukaryota	NA	NA	218851.Aquca_001_00120.1	NA	NA	NA	Aquilegia coerulea
+Eukaryota_ileS_534	Eukaryota	NA	NA	5860.XP_008622401.1	NA	NA	NA	Plasmodium vinckei
+Eukaryota_ileS_535	Eukaryota	NA	NA	9606.ENSP00000364794	NA	NA	NA	Homo sapiens
+Eukaryota_ileS_536	Eukaryota	NA	NA	5865.XP_001611793.1	NA	NA	NA	Babesia bovis
+Eukaryota_ileS_537	Eukaryota	NA	NA	7918.ENSLOCP00000017124	NA	NA	NA	Lepisosteus oculatus
+Eukaryota_ileS_538	Eukaryota	NA	NA	5872.XP_004828840.1	NA	NA	NA	Babesia equi
+Eukaryota_ileS_539	Eukaryota	NA	NA	5874.XP_952410.1	NA	NA	NA	Theileria annulata
+Eukaryota_ileS_540	Eukaryota	NA	NA	3827.XP_004505648.1	NA	NA	NA	Cicer arietinum
+Eukaryota_ileS_541	Eukaryota	NA	NA	9978.XP_004598880.1	NA	NA	NA	Ochotona princeps
+Eukaryota_ileS_542	Eukaryota	NA	NA	3711.Bra025459.1-P	NA	NA	NA	Brassica rapa
+Eukaryota_ileS_543	Eukaryota	NA	NA	3711.Bra019389.1-P	NA	NA	NA	Brassica rapa
+Eukaryota_ileS_544	Eukaryota	NA	NA	30611.ENSOGAP00000013819	NA	NA	NA	Otolemur garnettii
+Eukaryota_ileS_545	Eukaryota	NA	NA	38654.XP_006033448.1	NA	NA	NA	Alligator sinensis
+Eukaryota_ileS_546	Eukaryota	NA	NA	5888.CAK63081	NA	NA	NA	Paramecium tetraurelia
+Eukaryota_ileS_547	Eukaryota	NA	NA	5888.CAK77405	NA	NA	NA	Paramecium tetraurelia
+Eukaryota_ileS_548	Eukaryota	NA	NA	5888.CAK72063	NA	NA	NA	Paramecium tetraurelia
+Eukaryota_ileS_549	Eukaryota	NA	NA	5888.CAK72064	NA	NA	NA	Paramecium tetraurelia
+Eukaryota_ileS_550	Eukaryota	NA	NA	9986.ENSOCUP00000014519	NA	NA	NA	Oryctolagus cuniculus
+Eukaryota_ileS_551	Eukaryota	NA	NA	3847.GLYMA12G02330.1	NA	NA	NA	Glycine max
+Eukaryota_ileS_552	Eukaryota	NA	NA	3847.GLYMA11G09990.1	NA	NA	NA	Glycine max
+Eukaryota_ileS_553	Eukaryota	NA	NA	227086.JGI_V11_58391	NA	NA	NA	Bigelowiella natans
+Eukaryota_ileS_554	Eukaryota	NA	NA	227086.JGI_V11_76204	NA	NA	NA	Bigelowiella natans
+Eukaryota_ileS_555	Eukaryota	NA	NA	77586.LPERR06G18800.1	NA	NA	NA	Leersia perrieri
+Eukaryota_ileS_556	Eukaryota	NA	NA	77586.LPERR07G01490.1	NA	NA	NA	Leersia perrieri
+Eukaryota_ileS_557	Eukaryota	NA	NA	77586.LPERR02G05570.1	NA	NA	NA	Leersia perrieri
+Eukaryota_ileS_558	Eukaryota	NA	NA	7955.ENSDARP00000009149	NA	NA	NA	Danio rerio
+Eukaryota_ileS_559	Eukaryota	NA	NA	36630.CADNFIAP00000593	NA	NA	NA	Neosartorya fischeri
+Eukaryota_ileS_560	Eukaryota	NA	NA	5911.EAS02932	NA	NA	NA	Tetrahymena thermophila
+Eukaryota_ileS_561	Eukaryota	NA	NA	73501.XP_006672668.1	NA	NA	NA	Cordyceps militaris
+Eukaryota_ileS_562	Eukaryota	NA	NA	3880.AES89548	NA	NA	NA	Medicago truncatula
+Eukaryota_ileS_563	Eukaryota	NA	NA	474922.ELA24961	NA	NA	NA	Colletotrichum gloeosporioides
+Eukaryota_ileS_564	Eukaryota	NA	NA	36651.K9G5H6	NA	NA	NA	Penicillium digitatum
+Eukaryota_ileS_565	Eukaryota	NA	NA	132908.ENSPVAP00000009683	NA	NA	NA	Pteropus vampyrus
+Eukaryota_ileS_566	Eukaryota	NA	NA	10029.XP_007617411.1	NA	NA	NA	Cricetulus griseus
+Eukaryota_ileS_567	Eukaryota	NA	NA	10036.XP_005066368.1	NA	NA	NA	Mesocricetus auratus
+Eukaryota_ileS_568	Eukaryota	NA	NA	7994.ENSAMXP00000004947	NA	NA	NA	Astyanax mexicanus
+Eukaryota_ileS_569	Eukaryota	NA	NA	7994.ENSAMXP00000000038	NA	NA	NA	Astyanax mexicanus
+Eukaryota_ileS_570	Eukaryota	NA	NA	7994.ENSAMXP00000004946	NA	NA	NA	Astyanax mexicanus
+Eukaryota_ileS_571	Eukaryota	NA	NA	79684.XP_005355232.1	NA	NA	NA	Microtus ochrogaster
+Eukaryota_ileS_572	Eukaryota	NA	NA	38727.Pavir.J02220.1.p	NA	NA	NA	Panicum virgatum
+Eukaryota_ileS_573	Eukaryota	NA	NA	38727.Pavir.Db00662.1.p	NA	NA	NA	Panicum virgatum
+Eukaryota_ileS_574	Eukaryota	NA	NA	8010.XP_010900056.1	NA	NA	NA	Esox lucius
+Eukaryota_ileS_575	Eukaryota	NA	NA	325452.fgenesh_scip_prom.46568.2263	NA	NA	NA	Phytophthora kernoviae
+Eukaryota_ileS_576	Eukaryota	NA	NA	5970.XP_009153963.1	NA	NA	NA	Exophiala dermatitidis
+Eukaryota_ileS_577	Eukaryota	NA	NA	31033.ENSTRUP00000017335	NA	NA	NA	Takifugu rubripes
+Eukaryota_ileS_578	Eukaryota	NA	NA	61273.S3CLW4	NA	NA	NA	Ophiostoma piceae
+Eukaryota_ileS_579	Eukaryota	NA	NA	225117.XP_009363683.1	NA	NA	NA	Pyrus x
+Eukaryota_ileS_580	Eukaryota	NA	NA	225117.XP_009337446.1	NA	NA	NA	Pyrus x
+Eukaryota_ileS_581	Eukaryota	NA	NA	225117.XP_009365939.1	NA	NA	NA	Pyrus x
+Eukaryota_ileS_582	Eukaryota	NA	NA	225117.XP_009365866.1	NA	NA	NA	Pyrus x
+Eukaryota_ileS_583	Eukaryota	NA	NA	10090.ENSMUSP00000132082	NA	NA	NA	Mus musculus
+Eukaryota_ileS_584	Eukaryota	NA	NA	8049.ENSGMOP00000003895	NA	NA	NA	Gadus morhua
+Eukaryota_ileS_585	Eukaryota	NA	NA	28532.XP_010525919.1	NA	NA	NA	Tarenaya hassleriana
+Eukaryota_ileS_586	Eukaryota	NA	NA	984962.XP_009547284.1	NA	NA	NA	Heterobasidion irregulare
+Eukaryota_ileS_587	Eukaryota	NA	NA	10116.ENSRNOP00000019862	NA	NA	NA	Rattus norvegicus
+Eukaryota_ileS_588	Eukaryota	NA	NA	3983.cassava4.1_021713m	NA	NA	NA	Manihot esculenta
+Eukaryota_ileS_589	Eukaryota	NA	NA	3983.cassava4.1_032535m	NA	NA	NA	Manihot esculenta
+Eukaryota_ileS_590	Eukaryota	NA	NA	3983.cassava4.1_015922m	NA	NA	NA	Manihot esculenta
+Eukaryota_ileS_591	Eukaryota	NA	NA	8081.XP_008406745.1	NA	NA	NA	Poecilia reticulata
+Eukaryota_ileS_592	Eukaryota	NA	NA	8083.ENSXMAP00000017658	NA	NA	NA	Xiphophorus maculatus
+Eukaryota_ileS_593	Eukaryota	NA	NA	3988.XP_002529754.1	NA	NA	NA	Ricinus communis
+Eukaryota_ileS_594	Eukaryota	NA	NA	3988.XP_002513392.1	NA	NA	NA	Ricinus communis
+Eukaryota_ileS_595	Eukaryota	NA	NA	8090.ENSORLP00000005976	NA	NA	NA	Oryzias latipes
+Eukaryota_ileS_596	Eukaryota	NA	NA	10141.ENSCPOP00000000733	NA	NA	NA	Cavia porcellus
+Eukaryota_ileS_597	Eukaryota	NA	NA	81824.XP_001742550.1	NA	NA	NA	Monosiga brevicollis
+Eukaryota_ileS_598	Eukaryota	NA	NA	104355.XP_007864437.1	NA	NA	NA	Gloeophyllum trabeum
+Eukaryota_ileS_599	Eukaryota	NA	NA	4006.Lus10024041	NA	NA	NA	Linum usitatissimum
+Eukaryota_ileS_600	Eukaryota	NA	NA	4006.Lus10041706	NA	NA	NA	Linum usitatissimum
+Eukaryota_ileS_601	Eukaryota	NA	NA	4006.Lus10025306	NA	NA	NA	Linum usitatissimum
+Eukaryota_ileS_602	Eukaryota	NA	NA	28583.AMAG_06092T0	NA	NA	NA	Allomyces macrogynus
+Eukaryota_ileS_603	Eukaryota	NA	NA	28583.AMAG_09286T0	NA	NA	NA	Allomyces macrogynus
+Eukaryota_ileS_604	Eukaryota	NA	NA	63400.XP_003016936.1	NA	NA	NA	Arthroderma benhamiae
+Eukaryota_ileS_605	Eukaryota	NA	NA	85929.M3C2K4	NA	NA	NA	Sphaerulina musiva
+Eukaryota_ileS_606	Eukaryota	NA	NA	63402.XP_003169851.1	NA	NA	NA	Microsporum gypseum
+Eukaryota_ileS_607	Eukaryota	NA	NA	63405.XP_002847111.1	NA	NA	NA	Arthroderma otae
+Eukaryota_ileS_608	Eukaryota	NA	NA	221103.XP_007844019.1	NA	NA	NA	Moniliophthora roreri
+Eukaryota_ileS_609	Eukaryota	NA	NA	32507.XP_006783343.1	NA	NA	NA	Neolamprologus brichardi
+Eukaryota_ileS_610	Eukaryota	NA	NA	38833.XP_003056474.1	NA	NA	NA	Micromonas pusilla
+Eukaryota_ileS_611	Eukaryota	NA	NA	34740.HMEL007425-PA	NA	NA	NA	Heliconius melpomene
+Eukaryota_ileS_612	Eukaryota	NA	NA	63418.F2PPK8	NA	NA	NA	Trichophyton equinum
+Eukaryota_ileS_613	Eukaryota	NA	NA	8128.ENSONIP00000018063	NA	NA	NA	Oreochromis niloticus
+Eukaryota_ileS_614	Eukaryota	NA	NA	10181.XP_004870144.1	NA	NA	NA	Heterocephalus glaber
+Eukaryota_ileS_615	Eukaryota	NA	NA	6087.XP_004208624.1	NA	NA	NA	Hydra vulgaris
+Eukaryota_ileS_616	Eukaryota	NA	NA	6087.XP_004212963.1	NA	NA	NA	Hydra vulgaris
+Eukaryota_ileS_617	Eukaryota	NA	NA	6087.XP_002165468.2	NA	NA	NA	Hydra vulgaris
+Eukaryota_ileS_618	Eukaryota	NA	NA	202698.XP_007380814.1	NA	NA	NA	Punctularia strigosozonata
+Eukaryota_ileS_619	Eukaryota	NA	NA	5111.M1WIE1	NA	NA	NA	Claviceps purpurea
+Eukaryota_ileS_620	Eukaryota	NA	NA	65489.OBART02G06320.1	NA	NA	NA	Oryza barthii
+Eukaryota_ileS_621	Eukaryota	NA	NA	65489.OBART06G22670.1	NA	NA	NA	Oryza barthii
+Eukaryota_ileS_622	Eukaryota	NA	NA	223192.XP_007918964.1	NA	NA	NA	Togninia minima
+Eukaryota_ileS_623	Eukaryota	NA	NA	8153.XP_005932345.1	NA	NA	NA	Haplochromis burtoni
+Eukaryota_ileS_624	Eukaryota	NA	NA	85982.XP_007317561.1	NA	NA	NA	Serpula lacrymans
+Eukaryota_ileS_625	Eukaryota	NA	NA	432096.XP_003959924.1	NA	NA	NA	Kazachstania africana
+Eukaryota_ileS_626	Eukaryota	NA	NA	88036.EFJ11556	NA	NA	NA	Selaginella moellendorffii
+Eukaryota_ileS_627	Eukaryota	NA	NA	88036.EFJ11558	NA	NA	NA	Selaginella moellendorffii
+Eukaryota_ileS_628	Eukaryota	NA	NA	88036.EFJ18945	NA	NA	NA	Selaginella moellendorffii
+Eukaryota_ileS_629	Eukaryota	NA	NA	88036.EFJ18943	NA	NA	NA	Selaginella moellendorffii
+Eukaryota_ileS_630	Eukaryota	NA	NA	126957.SMAR008236-PA	NA	NA	NA	Strigamia maritima
+Eukaryota_ileS_631	Eukaryota	NA	NA	10224.XP_006820828.1	NA	NA	NA	Saccoglossus kowalevskii
+Eukaryota_ileS_632	Eukaryota	NA	NA	4081.Solyc11g012140.1.1	NA	NA	NA	Solanum lycopersicum
+Eukaryota_ileS_633	Eukaryota	NA	NA	10228.TriadP25814	NA	NA	NA	Trichoplax adhaerens
